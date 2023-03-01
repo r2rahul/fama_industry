@@ -1,0 +1,46 @@
+---
+title: "Data Summary and Validation Report"
+author: "Rahul"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Data Summary
+
+```{r cars}
+suppressMessages({
+  suppressWarnings({
+    suppressPackageStartupMessages({
+      library(tidyverse)
+      library(summarytools)
+      library(pointblank)
+    })
+  })
+})
+fama_sic <- targets::tar_read(tidy_fama)
+```
+
+
+```{r fama_eda, results = "asis", warning = FALSE, message = FALSE}
+print(dfSummary(fama_sic, graph.magnif = 0.75), method = "render")
+```
+
+
+## Data Validation
+
+```{r}
+agent <- create_agent(tbl = fama_sic) %>%
+  rows_complete(columns = vars(fama_ind49, sic_code)) %>%
+  col_vals_make_set(
+    columns = vars(fama_ind49), 
+    set = 1:49
+  ) %>%
+  interrogate()
+agent
+```
+
+

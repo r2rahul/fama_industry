@@ -1,0 +1,1422 @@
+sic_code,sic_group_name,fama_sic_start,fama_sic_end,sic_fama_desc,fama_ind49,fama_grpdesc
+100,Industrial Applications and Services,100,199,Agricultural production - crops,1,Agric Agriculture
+111,Wheat,100,199,Agricultural production - crops,1,Agric Agriculture
+112,Rice,100,199,Agricultural production - crops,1,Agric Agriculture
+115,Corn,100,199,Agricultural production - crops,1,Agric Agriculture
+116,Soybeans,100,199,Agricultural production - crops,1,Agric Agriculture
+119,"Cash Grains, Not Elsewhere Classified",100,199,Agricultural production - crops,1,Agric Agriculture
+131,Cotton,100,199,Agricultural production - crops,1,Agric Agriculture
+132,Tobacco,100,199,Agricultural production - crops,1,Agric Agriculture
+133,Sugarcane and Sugar Beets,100,199,Agricultural production - crops,1,Agric Agriculture
+134,Irish Potatoes,100,199,Agricultural production - crops,1,Agric Agriculture
+139,"Field Crops, Except Cash Grains, Not Elsewhere Classified",100,199,Agricultural production - crops,1,Agric Agriculture
+161,Vegetables and Melons,100,199,Agricultural production - crops,1,Agric Agriculture
+171,Berry Crops,100,199,Agricultural production - crops,1,Agric Agriculture
+172,Grapes,100,199,Agricultural production - crops,1,Agric Agriculture
+173,Tree Nuts,100,199,Agricultural production - crops,1,Agric Agriculture
+174,Citrus Fruits,100,199,Agricultural production - crops,1,Agric Agriculture
+175,Deciduous Tree Fruits,100,199,Agricultural production - crops,1,Agric Agriculture
+179,"Fruits and Tree Nuts, Not Elsewhere Classified",100,199,Agricultural production - crops,1,Agric Agriculture
+181,Ornamental Floriculture and Nursery Products,100,199,Agricultural production - crops,1,Agric Agriculture
+182,Food Crops Grown Under Cover,100,199,Agricultural production - crops,1,Agric Agriculture
+191,"General Farms, Primarily Crop",100,199,Agricultural production - crops,1,Agric Agriculture
+200,Industrial Applications and Services,200,299,Agricultural production - livestock,1,Agric Agriculture
+211,Beef Cattle Feedlots,200,299,Agricultural production - livestock,1,Agric Agriculture
+212,"Beef Cattle, Except Feedlots",200,299,Agricultural production - livestock,1,Agric Agriculture
+213,Hogs,200,299,Agricultural production - livestock,1,Agric Agriculture
+214,Sheep and Goats,200,299,Agricultural production - livestock,1,Agric Agriculture
+219,"General Livestock, Except Dairy and Poultry",200,299,Agricultural production - livestock,1,Agric Agriculture
+241,Dairy Farms,200,299,Agricultural production - livestock,1,Agric Agriculture
+251,"Broiler, Fryer, and Roaster Chickens",200,299,Agricultural production - livestock,1,Agric Agriculture
+252,Chicken Eggs,200,299,Agricultural production - livestock,1,Agric Agriculture
+253,Turkeys and Turkey Eggs,200,299,Agricultural production - livestock,1,Agric Agriculture
+254,Poultry Hatcheries,200,299,Agricultural production - livestock,1,Agric Agriculture
+259,"Poultry and Eggs, Not Elsewhere Classified",200,299,Agricultural production - livestock,1,Agric Agriculture
+271,Fur-Bearing Animals and Rabbits,200,299,Agricultural production - livestock,1,Agric Agriculture
+272,Horses and Other Equines,200,299,Agricultural production - livestock,1,Agric Agriculture
+273,Animal Aquaculture,200,299,Agricultural production - livestock,1,Agric Agriculture
+279,"Animal Specialties, Not Elsewhere Classified",200,299,Agricultural production - livestock,1,Agric Agriculture
+291,"General Farms, Primarily Livestock and Animal Specialties",200,299,Agricultural production - livestock,1,Agric Agriculture
+700,Industrial Applications and Services,700,799,Agricultural services,1,Agric Agriculture
+711,Soil Preparation Services,700,799,Agricultural services,1,Agric Agriculture
+721,"Crop Planting, Cultivating, and Protecting",700,799,Agricultural services,1,Agric Agriculture
+722,"Crop Harvesting, Primarily by Machine",700,799,Agricultural services,1,Agric Agriculture
+723,"Crop Preparation Services for Market, Except Cotton Ginning",700,799,Agricultural services,1,Agric Agriculture
+724,Cotton Ginning,700,799,Agricultural services,1,Agric Agriculture
+741,Veterinary Services for Livestock,700,799,Agricultural services,1,Agric Agriculture
+742,Veterinary Services for Animal Specialties,700,799,Agricultural services,1,Agric Agriculture
+751,"Livestock Services, Except Veterinary",700,799,Agricultural services,1,Agric Agriculture
+752,"Animal Specialty Services, Except Veterinary",700,799,Agricultural services,1,Agric Agriculture
+761,Farm Labor Contractors and Crew Leaders,700,799,Agricultural services,1,Agric Agriculture
+762,Farm Management Services,700,799,Agricultural services,1,Agric Agriculture
+781,Landscape Counseling and Planning,700,799,Agricultural services,1,Agric Agriculture
+782,Lawn and Garden Services,700,799,Agricultural services,1,Agric Agriculture
+783,Ornamental Shrub and Tree Services,700,799,Agricultural services,1,Agric Agriculture
+912,Finfish,910,919,Commercial fishing,1,Agric Agriculture
+913,Shellfish,910,919,Commercial fishing,1,Agric Agriculture
+919,Miscellaneous Marine Products,910,919,Commercial fishing,1,Agric Agriculture
+2048,"Prepared Feed and Feed Ingredients for Animals and Fowls, Except Dogs and Cats",2048,2048,Prepared feeds for animals,1,Agric Agriculture
+2000,Office of Manufacturing,2000,2009,Food and kindred products,2,Food Food Products
+2011,Meat Packing Plants,2010,2019,Meat products,2,Food Food Products
+2011,Office of Manufacturing,2010,2019,Meat products,2,Food Food Products
+2013,Sausages and Other Prepared Meat Products,2010,2019,Meat products,2,Food Food Products
+2013,Office of Manufacturing,2010,2019,Meat products,2,Food Food Products
+2015,Poultry Slaughtering and Processing,2010,2019,Meat products,2,Food Food Products
+2015,Office of Manufacturing,2010,2019,Meat products,2,Food Food Products
+2020,Office of Manufacturing,2020,2029,Dairy products,2,Food Food Products
+2021,Creamery Butter,2020,2029,Dairy products,2,Food Food Products
+2022,"Natural, Processed, and Imitation Cheese",2020,2029,Dairy products,2,Food Food Products
+2023,"Dry, Condensed, and Evaporated Dairy Products",2020,2029,Dairy products,2,Food Food Products
+2024,Ice Cream and Frozen Desserts,2020,2029,Dairy products,2,Food Food Products
+2024,Office of Manufacturing,2020,2029,Dairy products,2,Food Food Products
+2026,Fluid Milk,2020,2029,Dairy products,2,Food Food Products
+2030,Office of Manufacturing,2030,2039,Canned & preserved fruits & vegetables,2,Food Food Products
+2032,Canned Specialties,2030,2039,Canned & preserved fruits & vegetables,2,Food Food Products
+2033,"Canned Fruits, Vegetables, Preserves, Jams, and Jellies",2030,2039,Canned & preserved fruits & vegetables,2,Food Food Products
+2033,Office of Manufacturing,2030,2039,Canned & preserved fruits & vegetables,2,Food Food Products
+2034,"Dried and Dehydrated Fruits, Vegetables, and Soup Mixes",2030,2039,Canned & preserved fruits & vegetables,2,Food Food Products
+2035,"Pickled Fruits and Vegetables, Vegetable Sauces and Seasonings, and Salad Dressings",2030,2039,Canned & preserved fruits & vegetables,2,Food Food Products
+2037,"Frozen Fruits, Fruit Juices, and Vegetables",2030,2039,Canned & preserved fruits & vegetables,2,Food Food Products
+2038,"Frozen Specialties, Not Elsewhere Classified",2030,2039,Canned & preserved fruits & vegetables,2,Food Food Products
+2040,Office of Manufacturing,2040,2046,Flour and other grain mill products,2,Food Food Products
+2041,Flour and Other Grain Mill Products,2040,2046,Flour and other grain mill products,2,Food Food Products
+2043,Cereal Breakfast Foods,2040,2046,Flour and other grain mill products,2,Food Food Products
+2044,Rice Milling,2040,2046,Flour and other grain mill products,2,Food Food Products
+2045,Prepared Flour Mixes and Doughs,2040,2046,Flour and other grain mill products,2,Food Food Products
+2046,Wet Corn Milling,2040,2046,Flour and other grain mill products,2,Food Food Products
+2050,Office of Manufacturing,2050,2059,Bakery products,2,Food Food Products
+2051,"Bread and Other Bakery Products, Except Cookies and Crackers",2050,2059,Bakery products,2,Food Food Products
+2052,Cookies and Crackers,2050,2059,Bakery products,2,Food Food Products
+2052,Office of Manufacturing,2050,2059,Bakery products,2,Food Food Products
+2053,"Frozen Bakery Products, Except Bread",2050,2059,Bakery products,2,Food Food Products
+2060,Office of Manufacturing,2060,2063,Sugar and confectionery products,2,Food Food Products
+2061,"Cane Sugar, Except Refining",2060,2063,Sugar and confectionery products,2,Food Food Products
+2062,Cane Sugar Refining,2060,2063,Sugar and confectionery products,2,Food Food Products
+2063,Beet Sugar,2060,2063,Sugar and confectionery products,2,Food Food Products
+2070,Office of Manufacturing,2070,2079,Fats and oils,2,Food Food Products
+2074,Cottonseed Oil Mills,2070,2079,Fats and oils,2,Food Food Products
+2075,Soybean Oil Mills,2070,2079,Fats and oils,2,Food Food Products
+2076,"Vegetable Oil Mills, Except Corn, Cottonseed, and Soybean",2070,2079,Fats and oils,2,Food Food Products
+2077,Animal and Marine Fats and Oils,2070,2079,Fats and oils,2,Food Food Products
+2079,"Shortening, Table Oils, Margarine, and Other Edible Fats and Oils, Not Elsewhere Classified",2070,2079,Fats and oils,2,Food Food Products
+2090,Office of Manufacturing,2090,2092,Misc food preparations and kindred products,2,Food Food Products
+2091,Canned and Cured Fish and Seafoods,2090,2092,Misc food preparations and kindred products,2,Food Food Products
+2092,Prepared Fresh or Frozen Fish and Seafoods,2090,2092,Misc food preparations and kindred products,2,Food Food Products
+2092,Office of Manufacturing,2090,2092,Misc food preparations and kindred products,2,Food Food Products
+2095,Roasted Coffee,2095,2095,Roasted coffee,2,Food Food Products
+2098,"Macaroni, Spaghetti, Vermicelli, and Noodles",2098,2099,Misc food preparations,2,Food Food Products
+2099,"Food Preparations, Not Elsewhere Classified",2098,2099,Misc food preparations,2,Food Food Products
+2064,Candy and Other Confectionery Products,2064,2068,Candy and other confectionery,3,Soda Candy & Soda
+2066,Chocolate and Cocoa Products,2064,2068,Candy and other confectionery,3,Soda Candy & Soda
+2067,Chewing Gum,2064,2068,Candy and other confectionery,3,Soda Candy & Soda
+2068,Salted and Roasted Nuts and Seeds,2064,2068,Candy and other confectionery,3,Soda Candy & Soda
+2086,Bottled and Canned Soft Drinks and Carbonated Waters,2086,2086,Bottled-canned soft drinks,3,Soda Candy & Soda
+2086,Office of Manufacturing,2086,2086,Bottled-canned soft drinks,3,Soda Candy & Soda
+2087,"Flavoring Extracts and Flavoring Syrups, Not Elsewhere Classified",2087,2087,Flavoring syrup,3,Soda Candy & Soda
+2096,"Potato Chips, Corn Chips, and Similar Snacks",2096,2096,Potato chips,3,Soda Candy & Soda
+2097,Manufactured Ice,2097,2097,Manufactured ice,3,Soda Candy & Soda
+2080,Office of Manufacturing,2080,2080,Beverages,4,Beer Beer & Liquor
+2082,Malt Beverages,2082,2082,Malt beverages,4,Beer Beer & Liquor
+2082,Office of Manufacturing,2082,2082,Malt beverages,4,Beer Beer & Liquor
+2083,Malt,2083,2083,Malt,4,Beer Beer & Liquor
+2084,"Wines, Brandy, and Brandy Spirits",2084,2084,Wine,4,Beer Beer & Liquor
+2085,Distilled and Blended Liquors,2085,2085,Distilled and blended liquors,4,Beer Beer & Liquor
+2100,Office of Manufacturing,2100,2199,Tobacco products,5,Smoke Tobacco Products
+2111,Cigarettes,2100,2199,Tobacco products,5,Smoke Tobacco Products
+2111,Office of Manufacturing,2100,2199,Tobacco products,5,Smoke Tobacco Products
+2121,Cigars,2100,2199,Tobacco products,5,Smoke Tobacco Products
+2131,Chewing and Smoking Tobacco and Snuff,2100,2199,Tobacco products,5,Smoke Tobacco Products
+2141,Tobacco Stemming and Redrying,2100,2199,Tobacco products,5,Smoke Tobacco Products
+921,Fish Hatcheries and Preserves,920,999,"Fishing, hunting & trapping",6,Toys Recreation
+971,"Hunting and Trapping, and Game Propagation",920,999,"Fishing, hunting & trapping",6,Toys Recreation
+3651,Household Audio and Video Equipment,3650,3651,Household audio visual equipment,6,Toys Recreation
+3651,Office of Manufacturing,3650,3651,Household audio visual equipment,6,Toys Recreation
+3652,Phonograph Records and Prerecorded Audio Tapes and Disks,3652,3652,Phonograph records,6,Toys Recreation
+3652,Office of Manufacturing,3652,3652,Phonograph records,6,Toys Recreation
+3732,Boat Building and Repairing,3732,3732,Boat building and repairing,6,Toys Recreation
+3931,Musical Instruments,3930,3931,Musical instruments,6,Toys Recreation
+3931,Office of Manufacturing,3930,3931,Musical instruments,6,Toys Recreation
+3942,Dolls and Stuffed Toys,3940,3949,Toys,6,Toys Recreation
+3942,Office of Manufacturing,3940,3949,Toys,6,Toys Recreation
+3944,"Games, Toys, and Children's Vehicles, Except Dolls and Bicycles",3940,3949,Toys,6,Toys Recreation
+3944,Office of Manufacturing,3940,3949,Toys,6,Toys Recreation
+3949,"Sporting and Athletic Goods, Not Elsewhere Classified",3940,3949,Toys,6,Toys Recreation
+3949,Office of Manufacturing,3940,3949,Toys,6,Toys Recreation
+7812,Motion Picture and Video Tape Production,7800,7829,Services - motion picture production and distribution,7,Fun Entertainment
+7812,Office of Trade & Services,7800,7829,Services - motion picture production and distribution,7,Fun Entertainment
+7819,Services Allied to Motion Picture Production,7800,7829,Services - motion picture production and distribution,7,Fun Entertainment
+7819,Office of Trade & Services,7800,7829,Services - motion picture production and distribution,7,Fun Entertainment
+7822,Motion Picture and Video Tape Distribution,7800,7829,Services - motion picture production and distribution,7,Fun Entertainment
+7822,Office of Trade & Services,7800,7829,Services - motion picture production and distribution,7,Fun Entertainment
+7829,Services Allied to Motion Picture Distribution,7800,7829,Services - motion picture production and distribution,7,Fun Entertainment
+7829,Office of Trade & Services,7800,7829,Services - motion picture production and distribution,7,Fun Entertainment
+7830,Office of Trade & Services,7830,7833,Services - motion picture theaters,7,Fun Entertainment
+7832,"Motion Picture Theaters, Except Drive-In",7830,7833,Services - motion picture theaters,7,Fun Entertainment
+7833,Drive-In Motion Picture Theaters,7830,7833,Services - motion picture theaters,7,Fun Entertainment
+7841,Video Tape Rental,7840,7841,Services - video rental,7,Fun Entertainment
+7841,Office of Trade & Services,7840,7841,Services - video rental,7,Fun Entertainment
+7900,Office of Trade & Services,7900,7900,Services - amusement and recreation,7,Fun Entertainment
+7911,"Dance Studios, Schools, and Halls",7910,7911,Services - dance studios,7,Fun Entertainment
+7922,Theatrical Producers (Except Motion Picture) and Miscellaneous Theatrical Services,7920,7929,"Services - bands, entertainers",7,Fun Entertainment
+7929,"Bands, Orchestras, Actors, and Other Entertainers and Entertainment Groups",7920,7929,"Services - bands, entertainers",7,Fun Entertainment
+7933,Bowling Centers,7930,7933,Services - bowling centers,7,Fun Entertainment
+7941,Professional Sports Clubs and Promoters,7940,7949,Services - professional sports,7,Fun Entertainment
+7948,"Racing, Including Track Operation",7940,7949,Services - professional sports,7,Fun Entertainment
+7948,Office of Trade & Services,7940,7949,Services - professional sports,7,Fun Entertainment
+7990,Office of Trade & Services,7990,7999,Services - Misc entertainment,7,Fun Entertainment
+7991,Physical Fitness Facilities,7990,7999,Services - Misc entertainment,7,Fun Entertainment
+7992,Public Golf Courses,7990,7999,Services - Misc entertainment,7,Fun Entertainment
+7993,Coin-Operated Amusement Devices,7990,7999,Services - Misc entertainment,7,Fun Entertainment
+7994,Services-Video Game Arcades,7990,7999,Services - Misc entertainment,7,Fun Entertainment
+7995,Services-Gambling Transactions,7990,7999,Services - Misc entertainment,7,Fun Entertainment
+7996,Amusement Parks,7990,7999,Services - Misc entertainment,7,Fun Entertainment
+7996,Services-Amusement Parks,7990,7999,Services - Misc entertainment,7,Fun Entertainment
+7997,Membership Sports and Recreation Clubs,7990,7999,Services - Misc entertainment,7,Fun Entertainment
+7997,Office of Trade & Services,7990,7999,Services - Misc entertainment,7,Fun Entertainment
+7999,"Amusement and Recreation Services, Not Elsewhere Classified",7990,7999,Services - Misc entertainment,7,Fun Entertainment
+2711,"Newspapers: Publishing, or Publishing and Printing",2710,2719,Newspapers: publishing-printing,8,Books Printing and Publishing
+2711,Office of Manufacturing,2710,2719,Newspapers: publishing-printing,8,Books Printing and Publishing
+2721,"Periodicals: Publishing, or Publishing and Printing",2720,2729,Periodicals: publishing-printing,8,Books Printing and Publishing
+2721,Office of Manufacturing,2720,2729,Periodicals: publishing-printing,8,Books Printing and Publishing
+2731,"Books: Publishing, or Publishing and Printing",2730,2739,Books: publishing-printing,8,Books Printing and Publishing
+2731,Office of Manufacturing,2730,2739,Books: publishing-printing,8,Books Printing and Publishing
+2732,Book Printing,2730,2739,Books: publishing-printing,8,Books Printing and Publishing
+2732,Office of Manufacturing,2730,2739,Books: publishing-printing,8,Books Printing and Publishing
+2741,Miscellaneous Publishing,2740,2749,Misc publishing,8,Books Printing and Publishing
+2741,Office of Manufacturing,2740,2749,Misc publishing,8,Books Printing and Publishing
+2771,Greeting Cards,2770,2771,Greeting card,8,Books Printing and Publishing
+2771,Office of Manufacturing,2770,2771,Greeting card,8,Books Printing and Publishing
+2780,Office of Manufacturing,2780,2789,Bookbinding,8,Books Printing and Publishing
+2782,"Blankbooks, Looseleaf Binders and Devices",2780,2789,Bookbinding,8,Books Printing and Publishing
+2789,Bookbinding and Related Work,2780,2789,Bookbinding,8,Books Printing and Publishing
+2790,Office of Manufacturing,2790,2799,Service industries for the print trade,8,Books Printing and Publishing
+2791,Typesetting,2790,2799,Service industries for the print trade,8,Books Printing and Publishing
+2796,Platemaking and Related Services,2790,2799,Service industries for the print trade,8,Books Printing and Publishing
+2047,Dog and Cat Food,2047,2047,Dog and cat food,9,Hshld Consumer Goods
+2391,Curtains and Draperies,2391,2392,"Curtains, home furnishings",9,Hshld Consumer Goods
+2392,"House furnishing, Except Curtains and Draperies",2391,2392,"Curtains, home furnishings",9,Hshld Consumer Goods
+2510,Office of Manufacturing,2510,2519,Household furniture,9,Hshld Consumer Goods
+2511,"Wood Household Furniture, Except Upholstered",2510,2519,Household furniture,9,Hshld Consumer Goods
+2511,Office of Manufacturing,2510,2519,Household furniture,9,Hshld Consumer Goods
+2512,"Wood Household Furniture, Upholstered",2510,2519,Household furniture,9,Hshld Consumer Goods
+2514,Metal Household Furniture,2510,2519,Household furniture,9,Hshld Consumer Goods
+2515,"Mattresses, Foundations, and Convertible Beds",2510,2519,Household furniture,9,Hshld Consumer Goods
+2517,"Wood Television, Radio, Phonograph, and Sewing Machine Cabinets",2510,2519,Household furniture,9,Hshld Consumer Goods
+2519,"Household Furniture, Not Elsewhere Classified",2510,2519,Household furniture,9,Hshld Consumer Goods
+2590,Office of Manufacturing,2590,2599,Misc furniture and fixtures,9,Hshld Consumer Goods
+2591,Drapery Hardware and Window Blinds and Shades,2590,2599,Misc furniture and fixtures,9,Hshld Consumer Goods
+2599,"Furniture and Fixtures, Not Elsewhere Classified",2590,2599,Misc furniture and fixtures,9,Hshld Consumer Goods
+2840,Industrial Applications and Services,2840,2843,Soap & other detergents,9,Hshld Consumer Goods
+2841,"Soap and Other Detergents, Except Specialty Cleaners",2840,2843,Soap & other detergents,9,Hshld Consumer Goods
+2842,"Specialty Cleaning, Polishing, and Sanitation Preparations",2840,2843,Soap & other detergents,9,Hshld Consumer Goods
+2842,Industrial Applications and Services,2840,2843,Soap & other detergents,9,Hshld Consumer Goods
+2843,"Surface Active Agents, Finishing Agents, Sulfonated Oils, and Assistants",2840,2843,Soap & other detergents,9,Hshld Consumer Goods
+2844,"Perfumes, Cosmetics, and Other Toilet Preparations",2844,2844,"Perfumes, cosmetics and other toilet preparations",9,Hshld Consumer Goods
+2844,Industrial Applications and Services,2844,2844,"Perfumes, cosmetics and other toilet preparations",9,Hshld Consumer Goods
+3161,Luggage,3160,3161,Luggage,9,Hshld Consumer Goods
+3171,Women's Handbags and Purses,3170,3171,Handbags and purses,9,Hshld Consumer Goods
+3172,"Personal Leather Goods, Except Women's Handbags and Purses",3172,3172,"Personal leather goods, except handbags and purses",9,Hshld Consumer Goods
+3199,"Leather Goods, Not Elsewhere Classified",3190,3199,Leather goods,9,Hshld Consumer Goods
+3229,"Pressed and Blown Glass and Glassware, Not Elsewhere Classified",3229,3229,Pressed and blown glass,9,Hshld Consumer Goods
+3231,"Glass Products, Made of Purchased Glass",3230,3231,Glass products,9,Hshld Consumer Goods
+3231,Office of Manufacturing,3230,3231,Glass products,9,Hshld Consumer Goods
+3260,Office of Manufacturing,3260,3260,Pottery and related products,9,Hshld Consumer Goods
+3262,Vitreous China Table and Kitchen Articles,3262,3263,China and earthenware table articles,9,Hshld Consumer Goods
+3263,Fine Earthenware (Whiteware) Table and Kitchen Articles,3262,3263,China and earthenware table articles,9,Hshld Consumer Goods
+3269,"Pottery Products, Not Elsewhere Classified",3269,3269,Pottery products,9,Hshld Consumer Goods
+3630,Office of Manufacturing,3630,3639,Household appliances,9,Hshld Consumer Goods
+3631,Household Cooking Equipment,3630,3639,Household appliances,9,Hshld Consumer Goods
+3632,Household Refrigerators and HOme and Farm Freezers,3630,3639,Household appliances,9,Hshld Consumer Goods
+3633,Household Laundry Equipment,3630,3639,Household appliances,9,Hshld Consumer Goods
+3634,Electric Housewares and Fans,3630,3639,Household appliances,9,Hshld Consumer Goods
+3634,Office of Manufacturing,3630,3639,Household appliances,9,Hshld Consumer Goods
+3635,Household Vacuum Cleaners,3630,3639,Household appliances,9,Hshld Consumer Goods
+3639,"Household Appliances, Not Elsewhere Classified",3630,3639,Household appliances,9,Hshld Consumer Goods
+3751,"Motorcycles, Bicycles, and Parts",3750,3751,"Motorcycles, bicycles and parts (Harley & Huffy)",9,Hshld Consumer Goods
+3751,Office of Manufacturing,3750,3751,"Motorcycles, bicycles and parts (Harley & Huffy)",9,Hshld Consumer Goods
+3861,Photographic Equipment and Supplies,3860,3861,"Photographic equipment (Kodak etc, but also Xerox)",9,Hshld Consumer Goods
+3861,Industrial Applications and Services,3860,3861,"Photographic equipment (Kodak etc, but also Xerox)",9,Hshld Consumer Goods
+3873,"Watches, Clocks, Clockwork Operated Devices, and Parts",3870,3873,"Watches, clocks and parts",9,Hshld Consumer Goods
+3873,Industrial Applications and Services,3870,3873,"Watches, clocks and parts",9,Hshld Consumer Goods
+3910,Office of Manufacturing,3910,3911,"Jewelry, precious metals",9,Hshld Consumer Goods
+3911,"Jewelry, Precious Metal",3910,3911,"Jewelry, precious metals",9,Hshld Consumer Goods
+3911,Office of Manufacturing,3910,3911,"Jewelry, precious metals",9,Hshld Consumer Goods
+3914,"Silverware, Plated Ware, and Stainless Steel Ware",3914,3914,Silverware,9,Hshld Consumer Goods
+3915,"Jewelers' Findings and Materials, and Lapidary Work",3915,3915,Jewelers' findings and materials,9,Hshld Consumer Goods
+3960,Office of Manufacturing,3960,3962,Costume jewelry and novelties,9,Hshld Consumer Goods
+3961,"Costume Jewelry and Costume Novelties, Except Precious Metal",3960,3962,Costume jewelry and novelties,9,Hshld Consumer Goods
+3991,Brooms and Brushes,3991,3991,Brooms and brushes,9,Hshld Consumer Goods
+3995,Burial Caskets,3995,3995,Burial caskets,9,Hshld Consumer Goods
+2300,Office of Manufacturing,2300,2390,Apparel and other finished products,10,Clths Apparel
+2311,"Men's and Boys' Suits, Coats, and Overcoats",2300,2390,Apparel and other finished products,10,Clths Apparel
+2320,Office of Manufacturing,2300,2390,Apparel and other finished products,10,Clths Apparel
+2321,"Men's and Boys' Shirts, Except Work Shirts",2300,2390,Apparel and other finished products,10,Clths Apparel
+2322,Men's and Boys' Underwear and Nightwear,2300,2390,Apparel and other finished products,10,Clths Apparel
+2323,Men's and Boys' Neckwear,2300,2390,Apparel and other finished products,10,Clths Apparel
+2325,Men's and Boys' Separate Trousers and Slacks,2300,2390,Apparel and other finished products,10,Clths Apparel
+2326,Men's and Boys' Work Clothing,2300,2390,Apparel and other finished products,10,Clths Apparel
+2329,"Men's and Boys' Clothing, Not Elsewhere Classified",2300,2390,Apparel and other finished products,10,Clths Apparel
+2330,Office of Manufacturing,2300,2390,Apparel and other finished products,10,Clths Apparel
+2331,"Women's, Misses', and Juniors' Blouses and Shirts",2300,2390,Apparel and other finished products,10,Clths Apparel
+2335,"Women's, Misses', and Juniors' Dresses",2300,2390,Apparel and other finished products,10,Clths Apparel
+2337,"Women's, Misses', and Juniors' Suits, Skirts, and Coats",2300,2390,Apparel and other finished products,10,Clths Apparel
+2339,"Women's, Misses', and Juniors' Outerwear, Not Elsewhere Classified",2300,2390,Apparel and other finished products,10,Clths Apparel
+2340,Office of Manufacturing,2300,2390,Apparel and other finished products,10,Clths Apparel
+2341,"Women's, Misses', Children's, and Infants' Underwear and Nightwear",2300,2390,Apparel and other finished products,10,Clths Apparel
+2342,"Brassieres, Girdles, and Allied Garments",2300,2390,Apparel and other finished products,10,Clths Apparel
+2353,"Hats, Caps, and Millinery",2300,2390,Apparel and other finished products,10,Clths Apparel
+2361,"Girls', Children's, and Infants' Dresses, Blouses, and Shirts",2300,2390,Apparel and other finished products,10,Clths Apparel
+2369,"Girls', Children's, and Infants' Outerwear, Not Elsewhere Classified",2300,2390,Apparel and other finished products,10,Clths Apparel
+2371,Fur Goods,2300,2390,Apparel and other finished products,10,Clths Apparel
+2381,"Dress and Work Gloves, Except Knit and All-Leather",2300,2390,Apparel and other finished products,10,Clths Apparel
+2384,Robes and Dressing Gowns,2300,2390,Apparel and other finished products,10,Clths Apparel
+2385,Waterproof Outerwear,2300,2390,Apparel and other finished products,10,Clths Apparel
+2386,Leather and Sheep-Lined Clothing,2300,2390,Apparel and other finished products,10,Clths Apparel
+2387,Apparel belts,2300,2390,Apparel and other finished products,10,Clths Apparel
+2389,"Apparel and Accessories, Not Elsewhere Classified",2300,2390,Apparel and other finished products,10,Clths Apparel
+2390,Office of Manufacturing,2300,2390,Apparel and other finished products,10,Clths Apparel
+3021,Rubber and Plastics Footwear,3020,3021,Rubber and plastics footwear,10,Clths Apparel
+3021,Office of Manufacturing,3020,3021,Rubber and plastics footwear,10,Clths Apparel
+3100,Office of Manufacturing,3100,3111,Leather tanning and finishing,10,Clths Apparel
+3111,Leather Tanning and Finishing,3100,3111,Leather tanning and finishing,10,Clths Apparel
+3131,Boot and Shoe Cut Stock and Findings,3130,3131,Boot & shoe cut stock & findings,10,Clths Apparel
+3140,Office of Manufacturing,3140,3149,"Footwear, except rubber",10,Clths Apparel
+3142,House Slippers,3140,3149,"Footwear, except rubber",10,Clths Apparel
+3143,"Men's Footwear, Except Athletic",3140,3149,"Footwear, except rubber",10,Clths Apparel
+3144,"Women's Footwear, Except Athletic",3140,3149,"Footwear, except rubber",10,Clths Apparel
+3149,"Footwear, Except Rubber, Not Elsewhere Classified",3140,3149,"Footwear, except rubber",10,Clths Apparel
+3151,Leather Gloves and Mittens,3150,3151,Leather gloves and mittens,10,Clths Apparel
+3965,"Fasteners, Buttons, Needles, and Pins",3963,3965,"Fasteners, buttons, needles, pins",10,Clths Apparel
+8000,Industrial Applications and Services,8000,8099,Services - health,11,Hlth Healthcare
+8011,Offices and Clinics of Doctors of Medicine,8000,8099,Services - health,11,Hlth Healthcare
+8011,Industrial Applications and Services,8000,8099,Services - health,11,Hlth Healthcare
+8021,Offices and Clinics of Dentists,8000,8099,Services - health,11,Hlth Healthcare
+8031,Offices and Clinics of Doctors of Osteopathy,8000,8099,Services - health,11,Hlth Healthcare
+8041,Offices and Clinics of Chiropractors,8000,8099,Services - health,11,Hlth Healthcare
+8042,Offices and Clinics of Optometrists,8000,8099,Services - health,11,Hlth Healthcare
+8043,Offices and Clinics of Podiatrists,8000,8099,Services - health,11,Hlth Healthcare
+8049,"Offices and Clinics of Health Practitioners, Not Elsewhere Classified",8000,8099,Services - health,11,Hlth Healthcare
+8050,Industrial Applications and Services,8000,8099,Services - health,11,Hlth Healthcare
+8051,Skilled Nursing Care Facilities,8000,8099,Services - health,11,Hlth Healthcare
+8051,Industrial Applications and Services,8000,8099,Services - health,11,Hlth Healthcare
+8052,Intermediate Care Facilities,8000,8099,Services - health,11,Hlth Healthcare
+8059,"Nursing and Personal Care Facilities, Not Elsewhere Classified",8000,8099,Services - health,11,Hlth Healthcare
+8060,Industrial Applications and Services,8000,8099,Services - health,11,Hlth Healthcare
+8062,General Medical and Surgical Hospitals,8000,8099,Services - health,11,Hlth Healthcare
+8062,Industrial Applications and Services,8000,8099,Services - health,11,Hlth Healthcare
+8063,Psychiatric Hospitals,8000,8099,Services - health,11,Hlth Healthcare
+8069,"Specialty Hospitals, Except Psychiatric",8000,8099,Services - health,11,Hlth Healthcare
+8071,Medical Laboratories,8000,8099,Services - health,11,Hlth Healthcare
+8071,Industrial Applications and Services,8000,8099,Services - health,11,Hlth Healthcare
+8072,Dental Laboratories,8000,8099,Services - health,11,Hlth Healthcare
+8082,Home Health Care Services,8000,8099,Services - health,11,Hlth Healthcare
+8082,Industrial Applications and Services,8000,8099,Services - health,11,Hlth Healthcare
+8090,Industrial Applications and Services,8000,8099,Services - health,11,Hlth Healthcare
+8092,Kidney Dialysis Centers,8000,8099,Services - health,11,Hlth Healthcare
+8093,"Specialty Outpatient Facilities, Not Elsewhere Classified",8000,8099,Services - health,11,Hlth Healthcare
+8093,Industrial Applications and Services,8000,8099,Services - health,11,Hlth Healthcare
+8099,"Health and Allied Services, Not Elsewhere Classified",8000,8099,Services - health,11,Hlth Healthcare
+3841,Surgical and Medical Instruments and Apparatus,3840,3849,"Surgical, medical, and dental instruments and supplies",12,MedEq Medical Equipment
+3841,Industrial Applications and Services,3840,3849,"Surgical, medical, and dental instruments and supplies",12,MedEq Medical Equipment
+3842,"Orthopedic, Prosthetic, and Surgical Appliances and Supplies",3840,3849,"Surgical, medical, and dental instruments and supplies",12,MedEq Medical Equipment
+3842,Industrial Applications and Services,3840,3849,"Surgical, medical, and dental instruments and supplies",12,MedEq Medical Equipment
+3843,Dental Equipment and Supplies,3840,3849,"Surgical, medical, and dental instruments and supplies",12,MedEq Medical Equipment
+3843,Industrial Applications and Services,3840,3849,"Surgical, medical, and dental instruments and supplies",12,MedEq Medical Equipment
+3844,X-Ray Apparatus and Tubes and Related Irradiation Apparatus,3840,3849,"Surgical, medical, and dental instruments and supplies",12,MedEq Medical Equipment
+3844,Industrial Applications and Services,3840,3849,"Surgical, medical, and dental instruments and supplies",12,MedEq Medical Equipment
+3845,Electromedical and Electrotherapeutic Apparatus,3840,3849,"Surgical, medical, and dental instruments and supplies",12,MedEq Medical Equipment
+3845,Industrial Applications and Services,3840,3849,"Surgical, medical, and dental instruments and supplies",12,MedEq Medical Equipment
+3851,Ophthalmic Goods,3850,3851,Ophthalmic goods,12,MedEq Medical Equipment
+3851,Industrial Applications and Services,3850,3851,Ophthalmic goods,12,MedEq Medical Equipment
+2833,Medicinal Chemicals and Botanical Products,2833,2833,Medicinal chemicals,13,Drugs Pharmaceutical Products
+2833,Office of Life Sciences,2833,2833,Medicinal chemicals,13,Drugs Pharmaceutical Products
+2834,Pharmaceutical Preparations,2834,2834,Pharmaceutical preparations,13,Drugs Pharmaceutical Products
+2834,Office of Life Sciences,2834,2834,Pharmaceutical preparations,13,Drugs Pharmaceutical Products
+2835,In Vitro and In Vivo Diagnostic Substances,2835,2835,"In vitro, in vivo diagnostic substances",13,Drugs Pharmaceutical Products
+2835,Office of Life Sciences,2835,2835,"In vitro, in vivo diagnostic substances",13,Drugs Pharmaceutical Products
+2836,"Biological Products, Except Diagnostic Substances",2836,2836,"Biological products, except diagnostic substances",13,Drugs Pharmaceutical Products
+2836,Office of Life Sciences,2836,2836,"Biological products, except diagnostic substances",13,Drugs Pharmaceutical Products
+2800,Industrial Applications and Services,2800,2809,Chemicals and allied products,14,Chems Chemicals
+2810,Industrial Applications and Services,2810,2819,Industrial inorganic chemicals,14,Chems Chemicals
+2812,Alkalies and Chlorine,2810,2819,Industrial inorganic chemicals,14,Chems Chemicals
+2813,Industrial Gases,2810,2819,Industrial inorganic chemicals,14,Chems Chemicals
+2816,Inorganic Pigments,2810,2819,Industrial inorganic chemicals,14,Chems Chemicals
+2819,"Industrial Inorganic Chemicals, Not Elsewhere Classified",2810,2819,Industrial inorganic chemicals,14,Chems Chemicals
+2820,Industrial Applications and Services,2820,2829,Plastic material & synthetic resin/rubber,14,Chems Chemicals
+2821,"Plastics Materials, Synthetic Resins, and Nonvulcanizable Elastomers",2820,2829,Plastic material & synthetic resin/rubber,14,Chems Chemicals
+2821,Industrial Applications and Services,2820,2829,Plastic material & synthetic resin/rubber,14,Chems Chemicals
+2822,Synthetic Rubber (Vulcanizable Elastomers),2820,2829,Plastic material & synthetic resin/rubber,14,Chems Chemicals
+2823,Cellulosic Manmade Fibers,2820,2829,Plastic material & synthetic resin/rubber,14,Chems Chemicals
+2824,"Manmade Organic Fibers, Except Cellulosic",2820,2829,Plastic material & synthetic resin/rubber,14,Chems Chemicals
+2851,"Paints, Varnishes, Lacquers, Enamels, and Allied Products",2850,2859,Paints,14,Chems Chemicals
+2851,Industrial Applications and Services,2850,2859,Paints,14,Chems Chemicals
+2860,Industrial Applications and Services,2860,2869,Industrial organic chemicals,14,Chems Chemicals
+2861,Gum and Wood Chemicals,2860,2869,Industrial organic chemicals,14,Chems Chemicals
+2865,"Cyclic Organic Crudes and Intermediates, and Organic Dyes and Pigments",2860,2869,Industrial organic chemicals,14,Chems Chemicals
+2869,"Industrial Organic Chemicals, Not Elsewhere Classified",2860,2869,Industrial organic chemicals,14,Chems Chemicals
+2870,Industrial Applications and Services,2870,2879,Agriculture chemicals,14,Chems Chemicals
+2873,Nitrogenous Fertilizers,2870,2879,Agriculture chemicals,14,Chems Chemicals
+2874,Phosphatic Fertilizers,2870,2879,Agriculture chemicals,14,Chems Chemicals
+2875,"Fertilizers, Mixing Only",2870,2879,Agriculture chemicals,14,Chems Chemicals
+2879,"Pesticides and Agricultural Chemicals, Not Elsewhere Classified",2870,2879,Agriculture chemicals,14,Chems Chemicals
+2890,Industrial Applications and Services,2890,2899,Misc chemical products,14,Chems Chemicals
+2891,Adhesives and Sealants,2890,2899,Misc chemical products,14,Chems Chemicals
+2891,Industrial Applications and Services,2890,2899,Misc chemical products,14,Chems Chemicals
+2892,Explosives,2890,2899,Misc chemical products,14,Chems Chemicals
+2893,Printing Ink,2890,2899,Misc chemical products,14,Chems Chemicals
+2895,Carbon Black,2890,2899,Misc chemical products,14,Chems Chemicals
+2899,"Chemicals and Chemical Preparations, Not Elsewhere Classified",2890,2899,Misc chemical products,14,Chems Chemicals
+3050,Office of Manufacturing,3050,3053,"Gaskets, hoses, etc",15,Rubbr Rubber and Plastic Products
+3052,Rubber and Plastics Hose and Belting,3050,3053,"Gaskets, hoses, etc",15,Rubbr Rubber and Plastic Products
+3053,"Gaskets, Packing, and Sealing Devices",3050,3053,"Gaskets, hoses, etc",15,Rubbr Rubber and Plastic Products
+3060,Office of Manufacturing,3060,3069,Fabricated rubber products,15,Rubbr Rubber and Plastic Products
+3061,"Molded, Extruded, and Lathe-Cut Mechanical Rubber Goods",3060,3069,Fabricated rubber products,15,Rubbr Rubber and Plastic Products
+3069,"Fabricated Rubber Products, Not Elsewhere Classified",3060,3069,Fabricated rubber products,15,Rubbr Rubber and Plastic Products
+3080,Industrial Applications and Services,3080,3089,Misc plastic products,15,Rubbr Rubber and Plastic Products
+3081,Unsupported Plastics Film and Sheet,3080,3089,Misc plastic products,15,Rubbr Rubber and Plastic Products
+3081,Industrial Applications and Services,3080,3089,Misc plastic products,15,Rubbr Rubber and Plastic Products
+3082,Unsupported Plastics Profile Shapes,3080,3089,Misc plastic products,15,Rubbr Rubber and Plastic Products
+3083,"Laminated Plastics Plate, Sheet, and Profile Shapes",3080,3089,Misc plastic products,15,Rubbr Rubber and Plastic Products
+3084,Plastics Pipe,3080,3089,Misc plastic products,15,Rubbr Rubber and Plastic Products
+3085,Plastics Bottles,3080,3089,Misc plastic products,15,Rubbr Rubber and Plastic Products
+3086,Plastics Foam Products,3080,3089,Misc plastic products,15,Rubbr Rubber and Plastic Products
+3086,Industrial Applications and Services,3080,3089,Misc plastic products,15,Rubbr Rubber and Plastic Products
+3087,Custom Compounding of Purchased Plastics Resins,3080,3089,Misc plastic products,15,Rubbr Rubber and Plastic Products
+3088,Plastics Plumbing Fixtures,3080,3089,Misc plastic products,15,Rubbr Rubber and Plastic Products
+3089,"Plastics Products, Not Elsewhere Classified",3080,3089,Misc plastic products,15,Rubbr Rubber and Plastic Products
+3089,Industrial Applications and Services,3080,3089,Misc plastic products,15,Rubbr Rubber and Plastic Products
+2200,Office of Manufacturing,2200,2269,Textile mill products,16,Txtls Textiles
+2211,"Broadwoven Fabric Mills, Cotton",2200,2269,Textile mill products,16,Txtls Textiles
+2211,Office of Manufacturing,2200,2269,Textile mill products,16,Txtls Textiles
+2221,"Broadwoven Fabric Mills, Manmade Fiber and Silk",2200,2269,Textile mill products,16,Txtls Textiles
+2221,Office of Manufacturing,2200,2269,Textile mill products,16,Txtls Textiles
+2231,"Broadwoven Fabric Mills, Wool (Including Dyeing and Finishing)",2200,2269,Textile mill products,16,Txtls Textiles
+2241,"Narrow Fabric and Other Smallware Mills: Cotton, Wool, Silk, and Manmade Fiber",2200,2269,Textile mill products,16,Txtls Textiles
+2250,Office of Manufacturing,2200,2269,Textile mill products,16,Txtls Textiles
+2251,"Women's Full-Length and Knee-Length Hosiery, Except Socks",2200,2269,Textile mill products,16,Txtls Textiles
+2252,"Hosiery, Not Elsewhere Classified",2200,2269,Textile mill products,16,Txtls Textiles
+2253,Knit Outerwear Mills,2200,2269,Textile mill products,16,Txtls Textiles
+2253,Office of Manufacturing,2200,2269,Textile mill products,16,Txtls Textiles
+2254,Knit Underwear and Nightwear Mills,2200,2269,Textile mill products,16,Txtls Textiles
+2257,Weft Knit Fabric Mills,2200,2269,Textile mill products,16,Txtls Textiles
+2258,Lace and Warp Knit Fabric Mills,2200,2269,Textile mill products,16,Txtls Textiles
+2259,"Knitting Mills, Not Elsewhere Classified",2200,2269,Textile mill products,16,Txtls Textiles
+2261,Finishers of Broadwoven Fabrics of Cotton,2200,2269,Textile mill products,16,Txtls Textiles
+2262,Finishers of Broadwoven Fabrics of Manmade Fiber and Silk,2200,2269,Textile mill products,16,Txtls Textiles
+2269,"Finishers of Textiles, Not elsewhere Classified",2200,2269,Textile mill products,16,Txtls Textiles
+2273,Carpets and Rugs,2270,2279,Floor covering mills,16,Txtls Textiles
+2273,Office of Manufacturing,2270,2279,Floor covering mills,16,Txtls Textiles
+2281,Yarn Spinning Mills,2280,2284,Yarn and thread mills,16,Txtls Textiles
+2282,"Yarn Texturizing, Throwing, Twisting, and Winding Mills",2280,2284,Yarn and thread mills,16,Txtls Textiles
+2284,Thread Mills,2280,2284,Yarn and thread mills,16,Txtls Textiles
+2295,"Coated Fabrics, Not Rubberized",2290,2295,Misc textile goods,16,Txtls Textiles
+2297,Non-woven Fabrics,2297,2297,Non-woven fabrics,16,Txtls Textiles
+2298,Cordage and Twine,2298,2298,Cordage and twine,16,Txtls Textiles
+2299,"Textile goods, Not Elsewhere Classified",2299,2299,Misc textile products,16,Txtls Textiles
+2393,Textile Bags,2393,2395,"Textile bags, canvas products",16,Txtls Textiles
+2394,Canvas and Related Products,2393,2395,"Textile bags, canvas products",16,Txtls Textiles
+2395,"Pleating, Decorative and Novelty Stitching, and Tucking for the Trade",2393,2395,"Textile bags, canvas products",16,Txtls Textiles
+2397,Schiffli Machine Embroideries,2397,2399,Misc textile products,16,Txtls Textiles
+2399,"Fabricated Textile Products, Not Elsewhere Classified",2397,2399,Misc textile products,16,Txtls Textiles
+800,Industrial Applications and Services,800,899,Forestry,17,BldMt Construction Materials
+811,Timber Tracts,800,899,Forestry,17,BldMt Construction Materials
+831,Forest Nurseries and Gathering of Forest Products,800,899,Forestry,17,BldMt Construction Materials
+851,Forestry Services,800,899,Forestry,17,BldMt Construction Materials
+2400,Office of Manufacturing,2400,2439,Lumber and wood products,17,BldMt Construction Materials
+2411,Logging,2400,2439,Lumber and wood products,17,BldMt Construction Materials
+2421,"Sawmills and Planing Mills, General",2400,2439,Lumber and wood products,17,BldMt Construction Materials
+2421,Office of Manufacturing,2400,2439,Lumber and wood products,17,BldMt Construction Materials
+2426,Hardwood Dimension and Flooring Mills,2400,2439,Lumber and wood products,17,BldMt Construction Materials
+2429,"Special Product Sawmills, Not Elsewhere Classified",2400,2439,Lumber and wood products,17,BldMt Construction Materials
+2430,Office of Manufacturing,2400,2439,Lumber and wood products,17,BldMt Construction Materials
+2431,Millwork,2400,2439,Lumber and wood products,17,BldMt Construction Materials
+2434,Wood Kitchen Cabinets,2400,2439,Lumber and wood products,17,BldMt Construction Materials
+2435,Hardwood Veneer and Plywood,2400,2439,Lumber and wood products,17,BldMt Construction Materials
+2436,Softwood Veneer and Plywood,2400,2439,Lumber and wood products,17,BldMt Construction Materials
+2439,"Structural Wood Members, Not Elsewhere Classified",2400,2439,Lumber and wood products,17,BldMt Construction Materials
+2451,Mobile Homes,2450,2459,Wood buildings & mobile homes,17,BldMt Construction Materials
+2451,Office of Manufacturing,2450,2459,Wood buildings & mobile homes,17,BldMt Construction Materials
+2452,Prefabricated Wood Buildings and Components,2450,2459,Wood buildings & mobile homes,17,BldMt Construction Materials
+2452,Office of Manufacturing,2450,2459,Wood buildings & mobile homes,17,BldMt Construction Materials
+2491,Wood Preserving,2490,2499,Misc wood products,17,BldMt Construction Materials
+2493,Reconstituted Wood Products,2490,2499,Misc wood products,17,BldMt Construction Materials
+2499,"Wood Products, Not Elsewhere Classified",2490,2499,Misc wood products,17,BldMt Construction Materials
+2950,Office of Energy & Transportation,2950,2952,Paving & roofing materials,17,BldMt Construction Materials
+2951,Asphalt Paving Mixtures and Blocks,2950,2952,Paving & roofing materials,17,BldMt Construction Materials
+2952,Asphalt Felts and Coatings,2950,2952,Paving & roofing materials,17,BldMt Construction Materials
+3211,Flat Glass,3210,3211,Flat glass,17,BldMt Construction Materials
+3211,Office of Manufacturing,3210,3211,Flat glass,17,BldMt Construction Materials
+3241,"Cement, Hydraulic",3240,3241,"Cement, hydraulic",17,BldMt Construction Materials
+3241,Office of Manufacturing,3240,3241,"Cement, hydraulic",17,BldMt Construction Materials
+3250,Office of Manufacturing,3250,3259,Structural clay products,17,BldMt Construction Materials
+3251,Brick and Structural Clay Tile,3250,3259,Structural clay products,17,BldMt Construction Materials
+3253,Ceramic Wall and Floor Tile,3250,3259,Structural clay products,17,BldMt Construction Materials
+3255,Clay Refractories,3250,3259,Structural clay products,17,BldMt Construction Materials
+3259,"Structural Clay Products, Not Elsewhere Classified",3250,3259,Structural clay products,17,BldMt Construction Materials
+3261,Vitreous China Plumbing Fixtures and China and Earthenware Fittings and Bathroom Accessories,3261,3261,Vitreous china plumbing fixtures,17,BldMt Construction Materials
+3264,Porcelain Electrical Supplies,3264,3264,Porcelain electrical supplies,17,BldMt Construction Materials
+3270,Office of Manufacturing,3270,3275,"Concrete, gypsum & plaster products",17,BldMt Construction Materials
+3271,Concrete Block and Brick,3270,3275,"Concrete, gypsum & plaster products",17,BldMt Construction Materials
+3272,"Concrete Products, Except Block and Brick",3270,3275,"Concrete, gypsum & plaster products",17,BldMt Construction Materials
+3272,Office of Manufacturing,3270,3275,"Concrete, gypsum & plaster products",17,BldMt Construction Materials
+3273,Ready-Mixed Concrete,3270,3275,"Concrete, gypsum & plaster products",17,BldMt Construction Materials
+3274,Lime,3270,3275,"Concrete, gypsum & plaster products",17,BldMt Construction Materials
+3275,Gypsum Products,3270,3275,"Concrete, gypsum & plaster products",17,BldMt Construction Materials
+3281,Cut Stone and Stone Products,3280,3281,Cut stone and stone products,17,BldMt Construction Materials
+3281,Office of Manufacturing,3280,3281,Cut stone and stone products,17,BldMt Construction Materials
+3290,Office of Manufacturing,3290,3293,Abrasive and asbestos products,17,BldMt Construction Materials
+3291,Abrasive Products,3290,3293,Abrasive and asbestos products,17,BldMt Construction Materials
+3292,Asbestos Products,3290,3293,Abrasive and asbestos products,17,BldMt Construction Materials
+3295,"Minerals and Earths, Ground or Otherwise Treated",3295,3299,Misc nonmetallic mineral products,17,BldMt Construction Materials
+3296,Mineral Wool,3295,3299,Misc nonmetallic mineral products,17,BldMt Construction Materials
+3297,Nonclay Refractories,3295,3299,Misc nonmetallic mineral products,17,BldMt Construction Materials
+3299,"Nonmetallic Mineral Products, Not Elsewhere Classified",3295,3299,Misc nonmetallic mineral products,17,BldMt Construction Materials
+3420,Office of Manufacturing,3420,3429,"Cutlery, hand tools and general hardware",17,BldMt Construction Materials
+3421,Cutlery,3420,3429,"Cutlery, hand tools and general hardware",17,BldMt Construction Materials
+3423,"Hand and Edge Tools, Except Machine Tools and Handsaws",3420,3429,"Cutlery, hand tools and general hardware",17,BldMt Construction Materials
+3425,Saw Blades and Handsaws,3420,3429,"Cutlery, hand tools and general hardware",17,BldMt Construction Materials
+3429,"Hardware, Not Elsewhere Classified",3420,3429,"Cutlery, hand tools and general hardware",17,BldMt Construction Materials
+3430,Office of Manufacturing,3430,3433,Heating equipment & plumbing fixtures,17,BldMt Construction Materials
+3431,Enameled Iron and Metal Sanitary Ware,3430,3433,Heating equipment & plumbing fixtures,17,BldMt Construction Materials
+3432,Plumbing Fixture Fittings and Trim,3430,3433,Heating equipment & plumbing fixtures,17,BldMt Construction Materials
+3433,"Heating Equipment, Except Electric and Warm Air Furnaces",3430,3433,Heating equipment & plumbing fixtures,17,BldMt Construction Materials
+3433,Office of Manufacturing,3430,3433,Heating equipment & plumbing fixtures,17,BldMt Construction Materials
+3440,Office of Manufacturing,3440,3441,Fabricated structural metal products,17,BldMt Construction Materials
+3441,Fabricated Structural Metal,3440,3441,Fabricated structural metal products,17,BldMt Construction Materials
+3442,"Metal Doors, Sash, Frames, Molding, and Trim Manufacturing",3442,3442,"Metal doors, frames",17,BldMt Construction Materials
+3442,Office of Manufacturing,3442,3442,"Metal doors, frames",17,BldMt Construction Materials
+3446,Architectural and Ornamental Metal Work,3446,3446,Architectural or ornamental metal work,17,BldMt Construction Materials
+3448,Prefabricated Metal Buildings and Components,3448,3448,Prefabricated metal buildings and components,17,BldMt Construction Materials
+3448,Office of Manufacturing,3448,3448,Prefabricated metal buildings and components,17,BldMt Construction Materials
+3449,Miscellaneous Structural Metal Work,3449,3449,Misc structural metal work,17,BldMt Construction Materials
+3451,Screw Machine Products,3450,3451,Screw machine products,17,BldMt Construction Materials
+3451,Office of Manufacturing,3450,3451,Screw machine products,17,BldMt Construction Materials
+3452,"Bolts, Nuts, Screws, Rivets, and Washers",3452,3452,"Bolts, nuts, screws, rivets and washers",17,BldMt Construction Materials
+3452,Office of Manufacturing,3452,3452,"Bolts, nuts, screws, rivets and washers",17,BldMt Construction Materials
+3490,Office of Manufacturing,3490,3499,Misc fabricated metal products,17,BldMt Construction Materials
+3491,Industrial Valves,3490,3499,Misc fabricated metal products,17,BldMt Construction Materials
+3492,Fluid Power Valves and Hose Fittings,3490,3499,Misc fabricated metal products,17,BldMt Construction Materials
+3493,"Steel Springs, Except Wire",3490,3499,Misc fabricated metal products,17,BldMt Construction Materials
+3494,"Valves and Pipe Fittings, Not Elsewhere Classified",3490,3499,Misc fabricated metal products,17,BldMt Construction Materials
+3495,Wire Springs,3490,3499,Misc fabricated metal products,17,BldMt Construction Materials
+3496,Miscellaneous Fabricated Wire Products,3490,3499,Misc fabricated metal products,17,BldMt Construction Materials
+3497,Metal Foil and Leaf,3490,3499,Misc fabricated metal products,17,BldMt Construction Materials
+3498,Fabricated Pipe and Pipe Fittings,3490,3499,Misc fabricated metal products,17,BldMt Construction Materials
+3499,"Fabricated Metal Products, Not Elsewhere Classified",3490,3499,Misc fabricated metal products,17,BldMt Construction Materials
+3996,"Linoleum, Asphalted-Felt-Base, and Other Hard Surface Floor Coverings, Not Elsewhere Classified",3996,3996,Hard surface floor coverings,17,BldMt Construction Materials
+1520,Office of Real Estate & Construction,1520,1529,General building contractors - residential,18,Cnstr Construction
+1521,General Contractors-Single-Family Houses,1520,1529,General building contractors - residential,18,Cnstr Construction
+1522,"General Contractors-Residential Buildings, Other Than Single-Family",1520,1529,General building contractors - residential,18,Cnstr Construction
+1531,Operative Builders,1530,1539,Operative builders,18,Cnstr Construction
+1531,Office of Real Estate & Construction,1530,1539,Operative builders,18,Cnstr Construction
+1540,Office of Real Estate & Construction,1540,1549,General building contractors - non-residential,18,Cnstr Construction
+1541,General Contractors-Industrial Buildings and Warehouses,1540,1549,General building contractors - non-residential,18,Cnstr Construction
+1542,"General Contractors-Nonresidential Buildings, Other than Industrial Buildings and Warehouses",1540,1549,General building contractors - non-residential,18,Cnstr Construction
+1600,Office of Real Estate & Construction,1600,1699,Heavy construction - not building contractors,18,Cnstr Construction
+1611,"Highway and Street Construction, Except Elevated Highways",1600,1699,Heavy construction - not building contractors,18,Cnstr Construction
+1622,"Bridge, Tunnel, and Elevated Highway Construction",1600,1699,Heavy construction - not building contractors,18,Cnstr Construction
+1623,"Water, Sewer, Pipeline, and Communications and Power Line Construction",1600,1699,Heavy construction - not building contractors,18,Cnstr Construction
+1623,Office of Real Estate & Construction,1600,1699,Heavy construction - not building contractors,18,Cnstr Construction
+1629,"Heavy Construction, Not Elsewhere Classified",1600,1699,Heavy construction - not building contractors,18,Cnstr Construction
+1629,"Heavy Construction, Not Elsewhere Classified[11]",1600,1699,Heavy construction - not building contractors,18,Cnstr Construction
+1700,Office of Real Estate & Construction,1700,1799,Construction - special contractors,18,Cnstr Construction
+1711,"Plumbing, Heating and Air-Conditioning",1700,1799,Construction - special contractors,18,Cnstr Construction
+1721,Painting and Paper Hanging,1700,1799,Construction - special contractors,18,Cnstr Construction
+1731,Electrical Work,1700,1799,Construction - special contractors,18,Cnstr Construction
+1731,Office of Real Estate & Construction,1700,1799,Construction - special contractors,18,Cnstr Construction
+1741,"Masonry, Stone Setting, and Other Stone Work",1700,1799,Construction - special contractors,18,Cnstr Construction
+1742,"Plastering, Drywall, Acoustical, and Insulation Work",1700,1799,Construction - special contractors,18,Cnstr Construction
+1743,"Terrazzo, Tile, Marble, and Mosaic Work",1700,1799,Construction - special contractors,18,Cnstr Construction
+1751,Carpentry Work,1700,1799,Construction - special contractors,18,Cnstr Construction
+1752,"Floor Laying and Other Floor Work, Not Elsewhere Classified",1700,1799,Construction - special contractors,18,Cnstr Construction
+1761,"Roofing, Siding, and Sheet Metal Work",1700,1799,Construction - special contractors,18,Cnstr Construction
+1771,Concrete Work,1700,1799,Construction - special contractors,18,Cnstr Construction
+1781,Water Well Drilling,1700,1799,Construction - special contractors,18,Cnstr Construction
+1791,Structural Steel Erection,1700,1799,Construction - special contractors,18,Cnstr Construction
+1793,Glass and Glazing Work,1700,1799,Construction - special contractors,18,Cnstr Construction
+1794,Excavation Work,1700,1799,Construction - special contractors,18,Cnstr Construction
+1795,Wrecking and Demolition Work,1700,1799,Construction - special contractors,18,Cnstr Construction
+1796,"Installation or Erection of Building Equipment, Not Elsewhere",1700,1799,Construction - special contractors,18,Cnstr Construction
+1799,"Special Trade Contractors, Not Elsewhere Classified",1700,1799,Construction - special contractors,18,Cnstr Construction
+3310,Office of Manufacturing,3310,3317,Blast furnaces & steel works,19,Steel Steel Works Etc
+3312,"Steel Works, Blast Furnaces (Including Coke Ovens), and Rolling Mills",3310,3317,Blast furnaces & steel works,19,Steel Steel Works Etc
+3312,Office of Manufacturing,3310,3317,Blast furnaces & steel works,19,Steel Steel Works Etc
+3313,"Electrometallurgical Products, Except Steel",3310,3317,Blast furnaces & steel works,19,Steel Steel Works Etc
+3315,Steel Wiredrawing and Steel Nails and Spikes,3310,3317,Blast furnaces & steel works,19,Steel Steel Works Etc
+3316,"Cold-Rolled Steel Sheet, Strip, and Bars",3310,3317,Blast furnaces & steel works,19,Steel Steel Works Etc
+3317,Steel Pipe and Tubes,3310,3317,Blast furnaces & steel works,19,Steel Steel Works Etc
+3317,Office of Manufacturing,3310,3317,Blast furnaces & steel works,19,Steel Steel Works Etc
+3320,Office of Manufacturing,3320,3325,Iron & steel foundries,19,Steel Steel Works Etc
+3321,Gray and Ductile Iron Foundries,3320,3325,Iron & steel foundries,19,Steel Steel Works Etc
+3322,Malleable Iron Foundries,3320,3325,Iron & steel foundries,19,Steel Steel Works Etc
+3324,Steel Investment Foundries,3320,3325,Iron & steel foundries,19,Steel Steel Works Etc
+3325,"Steel Foundries, Not Elsewhere Classified",3320,3325,Iron & steel foundries,19,Steel Steel Works Etc
+3330,Office of Manufacturing,3330,3339,Primary smelting & refining of nonferrous metals,19,Steel Steel Works Etc
+3331,Primary Smelting and Refining of Copper,3330,3339,Primary smelting & refining of nonferrous metals,19,Steel Steel Works Etc
+3334,Primary Production of Aluminum,3330,3339,Primary smelting & refining of nonferrous metals,19,Steel Steel Works Etc
+3334,Office of Manufacturing,3330,3339,Primary smelting & refining of nonferrous metals,19,Steel Steel Works Etc
+3339,"Primary Smelting and Refining of Nonferrous Metals, Except Copper and Aluminum",3330,3339,Primary smelting & refining of nonferrous metals,19,Steel Steel Works Etc
+3341,Secondary Smelting and Refining of Nonferrous Metals,3340,3341,Secondary smelting & refining of nonferrous metals,19,Steel Steel Works Etc
+3341,Office of Manufacturing,3340,3341,Secondary smelting & refining of nonferrous metals,19,Steel Steel Works Etc
+3350,Office of Manufacturing,3350,3357,"Rolling, drawing & extruding of nonferrous metals",19,Steel Steel Works Etc
+3351,"Rolling, Drawing, and Extruding Of Copper",3350,3357,"Rolling, drawing & extruding of nonferrous metals",19,Steel Steel Works Etc
+3353,"Aluminum Sheet, Plate, and Foil",3350,3357,"Rolling, drawing & extruding of nonferrous metals",19,Steel Steel Works Etc
+3354,Aluminum Extruded Products,3350,3357,"Rolling, drawing & extruding of nonferrous metals",19,Steel Steel Works Etc
+3355,"Aluminum Rolling and Drawing, Not Elsewhere Classified",3350,3357,"Rolling, drawing & extruding of nonferrous metals",19,Steel Steel Works Etc
+3356,"Rolling, Drawing, and Extruding of Nonferrous Metals, Except Copper and Aluminum",3350,3357,"Rolling, drawing & extruding of nonferrous metals",19,Steel Steel Works Etc
+3357,Drawing and Insulating of Nonferrous Wire,3350,3357,"Rolling, drawing & extruding of nonferrous metals",19,Steel Steel Works Etc
+3357,Office of Manufacturing,3350,3357,"Rolling, drawing & extruding of nonferrous metals",19,Steel Steel Works Etc
+3360,Office of Manufacturing,3360,3369,Nonferrous foundries and casting,19,Steel Steel Works Etc
+3363,Aluminum Die-Castings,3360,3369,Nonferrous foundries and casting,19,Steel Steel Works Etc
+3364,"Nonferrous Die-Castings, Except Aluminum",3360,3369,Nonferrous foundries and casting,19,Steel Steel Works Etc
+3365,Aluminum Foundries,3360,3369,Nonferrous foundries and casting,19,Steel Steel Works Etc
+3366,Copper Foundries,3360,3369,Nonferrous foundries and casting,19,Steel Steel Works Etc
+3369,"Nonferrous Foundries, Except Aluminum and Copper",3360,3369,Nonferrous foundries and casting,19,Steel Steel Works Etc
+3390,Office of Manufacturing,3390,3399,Misc primary metal products,19,Steel Steel Works Etc
+3398,Metal Heat Treating,3390,3399,Misc primary metal products,19,Steel Steel Works Etc
+3399,"Primary Metal Products, Not Elsewhere Classified",3390,3399,Misc primary metal products,19,Steel Steel Works Etc
+3443,Fabricated Plate Work (Boiler Shops),3443,3443,Fabricated plate work,20,FabPr Fabricated Products
+3443,Office of Manufacturing,3443,3443,Fabricated plate work,20,FabPr Fabricated Products
+3444,Sheet Metal Work,3444,3444,Sheet metal work,20,FabPr Fabricated Products
+3444,Office of Manufacturing,3444,3444,Sheet metal work,20,FabPr Fabricated Products
+3460,Office of Manufacturing,3460,3469,Metal forgings and stampings,20,FabPr Fabricated Products
+3462,Iron and Steel Forgings,3460,3469,Metal forgings and stampings,20,FabPr Fabricated Products
+3463,Nonferrous Forgings,3460,3469,Metal forgings and stampings,20,FabPr Fabricated Products
+3465,Automotive Stampings,3460,3469,Metal forgings and stampings,20,FabPr Fabricated Products
+3466,Crowns and Closures,3460,3469,Metal forgings and stampings,20,FabPr Fabricated Products
+3469,"Metal Stampings, Not Elsewhere Classified",3460,3469,Metal forgings and stampings,20,FabPr Fabricated Products
+3470,Office of Manufacturing,3470,3479,"Coating, engraving and allied services",20,FabPr Fabricated Products
+3471,"Electroplating, Plating, Polishing, Anodizing, and Coloring",3470,3479,"Coating, engraving and allied services",20,FabPr Fabricated Products
+3479,"Coating, Engraving, and Allied Services, Not Elsewhere Classified",3470,3479,"Coating, engraving and allied services",20,FabPr Fabricated Products
+3510,Office of Technology,3510,3519,Engines & turbines,21,Mach Machinery
+3511,"Steam, Gas, and Hydraulic Turbines, and Turbine Generator Set Units",3510,3519,Engines & turbines,21,Mach Machinery
+3519,"Internal Combustion Engines, Not Elsewhere Classified",3510,3519,Engines & turbines,21,Mach Machinery
+3523,Farm Machinery and Equipment,3520,3529,Farm and garden machinery and equipment,21,Mach Machinery
+3523,Office of Technology,3520,3529,Farm and garden machinery and equipment,21,Mach Machinery
+3524,Lawn and Garden Tractors and Home Lawn and Garden Equipment,3520,3529,Farm and garden machinery and equipment,21,Mach Machinery
+3524,Office of Technology,3520,3529,Farm and garden machinery and equipment,21,Mach Machinery
+3530,Office of Technology,3530,3530,"Construction, mining & material handling machinery & equipment",21,Mach Machinery
+3531,Construction Machinery and Equipment,3531,3531,Construction machinery & equipment,21,Mach Machinery
+3531,Office of Technology,3531,3531,Construction machinery & equipment,21,Mach Machinery
+3532,"Mining Machinery and Equipment, Except Oil and Gas Field Machinery and Equipment",3532,3532,"Mining machinery & equipment, except oil field",21,Mach Machinery
+3532,Office of Technology,3532,3532,"Mining machinery & equipment, except oil field",21,Mach Machinery
+3533,Oil and Gas Field Machinery and Equipment,3533,3533,Oil & gas field machinery & equipment,21,Mach Machinery
+3533,Office of Technology,3533,3533,Oil & gas field machinery & equipment,21,Mach Machinery
+3534,Elevators and Moving Stairways,3534,3534,Elevators & moving stairways,21,Mach Machinery
+3535,Conveyors and Conveying Equipment,3535,3535,Conveyors & conveying equipment,21,Mach Machinery
+3536,"Overhead Traveling Cranes, Hoists, and Monorail Systems",3536,3536,"Cranes, hoists and monorail systems",21,Mach Machinery
+3540,Office of Technology,3540,3549,Metalworking machinery & equipment,21,Mach Machinery
+3541,"Machine Tools, Metal Cutting Types",3540,3549,Metalworking machinery & equipment,21,Mach Machinery
+3541,Office of Technology,3540,3549,Metalworking machinery & equipment,21,Mach Machinery
+3542,"Machine Tools, Metal Forming Types",3540,3549,Metalworking machinery & equipment,21,Mach Machinery
+3543,Industrial Patterns,3540,3549,Metalworking machinery & equipment,21,Mach Machinery
+3544,"Special Dies and Tools, Die Sets, Jigs and Fixtures, and Industrial Molds",3540,3549,Metalworking machinery & equipment,21,Mach Machinery
+3545,"Cutting Tools, Machine Tool Accessories, and Machinists' Precision Measuring Devices",3540,3549,Metalworking machinery & equipment,21,Mach Machinery
+3546,Power-Driven Handtools,3540,3549,Metalworking machinery & equipment,21,Mach Machinery
+3547,Rolling Mill Machinery and Equipment,3540,3549,Metalworking machinery & equipment,21,Mach Machinery
+3548,Electric and Gas Welding and Soldering Equipment,3540,3549,Metalworking machinery & equipment,21,Mach Machinery
+3549,"Metalworking Machinery, Not Elsewhere Classified",3540,3549,Metalworking machinery & equipment,21,Mach Machinery
+3550,Office of Technology,3550,3559,Special industry machinery,21,Mach Machinery
+3552,Textile Machinery,3550,3559,Special industry machinery,21,Mach Machinery
+3553,Woodworking Machinery,3550,3559,Special industry machinery,21,Mach Machinery
+3554,Paper Industries Machinery,3550,3559,Special industry machinery,21,Mach Machinery
+3555,Printing Trades Machinery and Equipment,3550,3559,Special industry machinery,21,Mach Machinery
+3555,Office of Technology,3550,3559,Special industry machinery,21,Mach Machinery
+3556,Food Products Machinery,3550,3559,Special industry machinery,21,Mach Machinery
+3559,"Special Industry Machinery, Not Elsewhere Classified",3550,3559,Special industry machinery,21,Mach Machinery
+3559,Office of Technology,3550,3559,Special industry machinery,21,Mach Machinery
+3560,Office of Technology,3560,3569,General industrial machinery & equipment,21,Mach Machinery
+3561,Pumps and Pumping Equipment,3560,3569,General industrial machinery & equipment,21,Mach Machinery
+3561,Office of Technology,3560,3569,General industrial machinery & equipment,21,Mach Machinery
+3562,Ball and Roller Bearings,3560,3569,General industrial machinery & equipment,21,Mach Machinery
+3562,Office of Technology,3560,3569,General industrial machinery & equipment,21,Mach Machinery
+3563,Air and Gas Compressors,3560,3569,General industrial machinery & equipment,21,Mach Machinery
+3564,Industrial and Commercial Fans and Blowers and Air Purification Equipment,3560,3569,General industrial machinery & equipment,21,Mach Machinery
+3564,Office of Technology,3560,3569,General industrial machinery & equipment,21,Mach Machinery
+3565,Packaging Machinery,3560,3569,General industrial machinery & equipment,21,Mach Machinery
+3566,"Speed Changers, Industrial High-Speed Drives, and Gears",3560,3569,General industrial machinery & equipment,21,Mach Machinery
+3567,Industrial Process Furnaces and Ovens,3560,3569,General industrial machinery & equipment,21,Mach Machinery
+3567,Office of Technology,3560,3569,General industrial machinery & equipment,21,Mach Machinery
+3568,"Mechanical Power Transmission Equipment, Not Elsewhere Classified",3560,3569,General industrial machinery & equipment,21,Mach Machinery
+3569,"General Industrial Machinery and Equipment, Not Elsewhere",3560,3569,General industrial machinery & equipment,21,Mach Machinery
+3569,Office of Technology,3560,3569,General industrial machinery & equipment,21,Mach Machinery
+3580,Office of Technology,3580,3580,Refrigeration & service industry machinery,21,Mach Machinery
+3581,Automatic Vending Machines,3581,3581,Automatic vending machines,21,Mach Machinery
+3582,"Commercial Laundry, Drycleaning, and Pressing Machines",3582,3582,Commercial laundry and dry cleaning machines,21,Mach Machinery
+3585,Air-Conditioning and Warm Air Heating Equipment and Commercial and Industrial Refrigeration Equipment,3585,3585,"Air conditioning, warm air heating and refrigeration equipment",21,Mach Machinery
+3585,Office of Technology,3585,3585,"Air conditioning, warm air heating and refrigeration equipment",21,Mach Machinery
+3586,Measuring and Dispensing Pumps,3586,3586,Measuring and dispensing pumps,21,Mach Machinery
+3589,"Service Industry Machinery, Not Elsewhere Classified",3589,3589,Service industry machinery,21,Mach Machinery
+3590,Office of Technology,3590,3599,Misc industrial and commercial equipment and machinery,21,Mach Machinery
+3592,"Carburetors, Pistons, Piston Rings, and Valves",3590,3599,Misc industrial and commercial equipment and machinery,21,Mach Machinery
+3593,Fluid Power Cylinders and Actuators,3590,3599,Misc industrial and commercial equipment and machinery,21,Mach Machinery
+3594,Fluid Power Pumps and Motors,3590,3599,Misc industrial and commercial equipment and machinery,21,Mach Machinery
+3596,"Scales and Balances, Except Laboratory",3590,3599,Misc industrial and commercial equipment and machinery,21,Mach Machinery
+3599,"Industrial and Commercial Machinery and Equipment, Not Elsewhere Classified",3590,3599,Misc industrial and commercial equipment and machinery,21,Mach Machinery
+3600,Office of Manufacturing,3600,3600,Electronic & other electrical equipment,22,ElcEq Electrical Equipment
+3612,"Power, Distribution, and Specialty Transformers",3610,3613,Electric transmission and distribution equipment,22,ElcEq Electrical Equipment
+3612,Office of Manufacturing,3610,3613,Electric transmission and distribution equipment,22,ElcEq Electrical Equipment
+3613,Switchgear and Switchboard Apparatus,3610,3613,Electric transmission and distribution equipment,22,ElcEq Electrical Equipment
+3613,Office of Manufacturing,3610,3613,Electric transmission and distribution equipment,22,ElcEq Electrical Equipment
+3620,Office of Manufacturing,3620,3621,Electrical industrial apparatus,22,ElcEq Electrical Equipment
+3621,Motors and Generators,3620,3621,Electrical industrial apparatus,22,ElcEq Electrical Equipment
+3621,Office of Manufacturing,3620,3621,Electrical industrial apparatus,22,ElcEq Electrical Equipment
+3624,Carbon and Graphite Products,3623,3629,Electrical industrial apparatus,22,ElcEq Electrical Equipment
+3625,Relays and Industrial Controls,3623,3629,Electrical industrial apparatus,22,ElcEq Electrical Equipment
+3629,"Electrical Industrial Apparatus, Not Elsewhere Classified",3623,3629,Electrical industrial apparatus,22,ElcEq Electrical Equipment
+3640,Office of Manufacturing,3640,3644,Electric lighting & wiring equipment,22,ElcEq Electrical Equipment
+3641,Electric Lamp Bulbs and Tubes,3640,3644,Electric lighting & wiring equipment,22,ElcEq Electrical Equipment
+3643,Current-Carrying Wiring Devices,3640,3644,Electric lighting & wiring equipment,22,ElcEq Electrical Equipment
+3644,Noncurrent-Carrying Wiring Devices,3640,3644,Electric lighting & wiring equipment,22,ElcEq Electrical Equipment
+3645,Residential Electric Lighting Fixtures,3645,3645,Residential electric lighting fixtures,22,ElcEq Electrical Equipment
+3646,"Commercial, Industrial, and Institutional Electric Lighting Fixtures",3646,3646,"Commercial, industrial and institutional electric lighting fixtures",22,ElcEq Electrical Equipment
+3648,"Lighting Equipment, Not Elsewhere Classified",3648,3649,Misc lighting equipment,22,ElcEq Electrical Equipment
+3690,Office of Manufacturing,3690,3690,Misc electrical machinery and equipment,22,ElcEq Electrical Equipment
+3691,Storage Batteries,3691,3692,Storage batteries,22,ElcEq Electrical Equipment
+3692,"Primary Batteries, Dry and Wet",3691,3692,Storage batteries,22,ElcEq Electrical Equipment
+3699,"Electrical Machinery, Equipment, and Supplies, Not Elsewhere",3699,3699,"Misc electrical machinery, equipment and supplies",22,ElcEq Electrical Equipment
+2296,Tire Cord and Fabrics,2296,2296,Tire cord and fabric,23,Autos Automobiles and Trucks
+2396,"Automotive Trimmings, Apparel Findings, and Related Products",2396,2396,"Automotive trimmings, apparel findings & related products",23,Autos Automobiles and Trucks
+3011,Tires and Inner Tubes,3010,3011,Tires and inner tubes,23,Autos Automobiles and Trucks
+3011,Office of Manufacturing,3010,3011,Tires and inner tubes,23,Autos Automobiles and Trucks
+3537,"Industrial Trucks, Tractors, Trailers, and Stackers",3537,3537,"Industrial trucks, tractors, trailers & stackers",23,Autos Automobiles and Trucks
+3537,Office of Technology,3537,3537,"Industrial trucks, tractors, trailers & stackers",23,Autos Automobiles and Trucks
+3647,Vehicular Lighting Equipment,3647,3647,Vehicular lighting equipment,23,Autos Automobiles and Trucks
+3694,Electrical Equipment for Internal Combustion Engines,3694,3694,Electrical equipment for internal combustion engines,23,Autos Automobiles and Trucks
+3711,Motor Vehicles and Passenger Car Bodies,3711,3711,Motor vehicles & passenger car bodies,23,Autos Automobiles and Trucks
+3711,Office of Manufacturing,3711,3711,Motor vehicles & passenger car bodies,23,Autos Automobiles and Trucks
+3713,Truck and Bus Bodies,3713,3713,Truck & bus bodies,23,Autos Automobiles and Trucks
+3713,Office of Manufacturing,3713,3713,Truck & bus bodies,23,Autos Automobiles and Trucks
+3714,Motor Vehicle Parts and Accessories,3714,3714,Motor vehicle parts & accessories,23,Autos Automobiles and Trucks
+3714,Office of Manufacturing,3714,3714,Motor vehicle parts & accessories,23,Autos Automobiles and Trucks
+3715,Truck Trailers,3715,3715,Truck trailers,23,Autos Automobiles and Trucks
+3715,Office of Manufacturing,3715,3715,Truck trailers,23,Autos Automobiles and Trucks
+3716,Motor Homes,3716,3716,Motor homes,23,Autos Automobiles and Trucks
+3716,Office of Manufacturing,3716,3716,Motor homes,23,Autos Automobiles and Trucks
+3790,Office of Manufacturing,3790,3791,Misc transportation equipment,23,Autos Automobiles and Trucks
+3792,Travel Trailers and Campers,3792,3792,Travel trailers and campers,23,Autos Automobiles and Trucks
+3799,"Transportation Equipment, Not Elsewhere Classified",3799,3799,Misc transportation equipment,23,Autos Automobiles and Trucks
+3720,Office of Manufacturing,3720,3720,Aircraft & parts,24,Aero Aircraft
+3721,Aircraft,3721,3721,Aircraft,24,Aero Aircraft
+3721,Office of Manufacturing,3721,3721,Aircraft,24,Aero Aircraft
+3724,Aircraft Engines and Engine Parts,3723,3724,Aircraft engines & engine parts,24,Aero Aircraft
+3724,Office of Manufacturing,3723,3724,Aircraft engines & engine parts,24,Aero Aircraft
+3728,"Aircraft Parts and Auxiliary Equipment, Not Elsewhere Classified",3728,3729,Misc aircraft parts & auxiliary equipment,24,Aero Aircraft
+3728,Office of Manufacturing,3728,3729,Misc aircraft parts & auxiliary equipment,24,Aero Aircraft
+3730,Office of Manufacturing,3730,3731,Ship building and repairing,25,"Ships Shipbuilding, Railroad Equipment"
+3731,Ship Building and Repairing,3730,3731,Ship building and repairing,25,"Ships Shipbuilding, Railroad Equipment"
+3743,Railroad Equipment,3740,3743,Railroad Equipment,25,"Ships Shipbuilding, Railroad Equipment"
+3743,Office of Manufacturing,3740,3743,Railroad Equipment,25,"Ships Shipbuilding, Railroad Equipment"
+3480,Office of Manufacturing,3480,3489,Ordnance & accessories,26,Guns Defense
+3482,Small Arms Ammunition,3480,3489,Ordnance & accessories,26,Guns Defense
+3483,"Ammunition, Except for Small Arms",3480,3489,Ordnance & accessories,26,Guns Defense
+3484,Small Arms,3480,3489,Ordnance & accessories,26,Guns Defense
+3489,"Ordnance and Accessories, Not Elsewhere Classified",3480,3489,Ordnance & accessories,26,Guns Defense
+3760,Office of Manufacturing,3760,3769,Guided missiles and space vehicles and parts,26,Guns Defense
+3761,Guided Missiles and Space Vehicles,3760,3769,Guided missiles and space vehicles and parts,26,Guns Defense
+3764,Guided Missile and Space Vehicle Propulsion Units and Propulsion Unit Parts,3760,3769,Guided missiles and space vehicles and parts,26,Guns Defense
+3769,"Guided Missile Space Vehicle Parts and Auxiliary Equipment, Not Elsewhere Classified",3760,3769,Guided missiles and space vehicles and parts,26,Guns Defense
+3795,Tanks and Tank Components,3795,3795,Tanks and tank components,26,Guns Defense
+1040,Office of Energy & Transportation,1040,1049,Gold & silver ores,27,Gold Precious Metals
+1041,Gold Ores,1040,1049,Gold & silver ores,27,Gold Precious Metals
+1044,Silver Ores,1040,1049,Gold & silver ores,27,Gold Precious Metals
+1000,Office of Energy & Transportation,1000,1009,Metal mining,28,Mines Non-Metallic and Industrial Metal Mining
+1011,Iron Ores,1010,1019,Iron ores,28,Mines Non-Metallic and Industrial Metal Mining
+1021,Copper Ores,1020,1029,Copper ores,28,Mines Non-Metallic and Industrial Metal Mining
+1031,Lead and Zinc Ores,1030,1039,Lead and zinc ores,28,Mines Non-Metallic and Industrial Metal Mining
+1061,"Ferroalloy Ores, Except Vanadium",1060,1069,Ferroalloy ores,28,Mines Non-Metallic and Industrial Metal Mining
+1081,Metal Mining Services,1080,1089,Metal mining services,28,Mines Non-Metallic and Industrial Metal Mining
+1090,Office of Energy & Transportation,1090,1099,Misc metal ores,28,Mines Non-Metallic and Industrial Metal Mining
+1094,Uranium-Radium-Vanadium Ores,1090,1099,Misc metal ores,28,Mines Non-Metallic and Industrial Metal Mining
+1099,"Miscellaneous Metal Ores, Not Elsewhere Classified",1090,1099,Misc metal ores,28,Mines Non-Metallic and Industrial Metal Mining
+1400,Office of Energy & Transportation,1400,1499,Mining and quarrying nonmetallic minerals,28,Mines Non-Metallic and Industrial Metal Mining
+1411,Dimension Stone,1400,1499,Mining and quarrying nonmetallic minerals,28,Mines Non-Metallic and Industrial Metal Mining
+1422,Crushed and Broken Limestone,1400,1499,Mining and quarrying nonmetallic minerals,28,Mines Non-Metallic and Industrial Metal Mining
+1423,Crushed and Broken Granite,1400,1499,Mining and quarrying nonmetallic minerals,28,Mines Non-Metallic and Industrial Metal Mining
+1429,"Crushed and Broken Stone, Not Elsewhere Classified",1400,1499,Mining and quarrying nonmetallic minerals,28,Mines Non-Metallic and Industrial Metal Mining
+1442,Construction Sand and Gravel,1400,1499,Mining and quarrying nonmetallic minerals,28,Mines Non-Metallic and Industrial Metal Mining
+1446,Industrial Sand,1400,1499,Mining and quarrying nonmetallic minerals,28,Mines Non-Metallic and Industrial Metal Mining
+1455,Kaolin and Ball Clay,1400,1499,Mining and quarrying nonmetallic minerals,28,Mines Non-Metallic and Industrial Metal Mining
+1459,"Clay, Ceramic, and Refractory Minerals, Not Elsewhere Classified",1400,1499,Mining and quarrying nonmetallic minerals,28,Mines Non-Metallic and Industrial Metal Mining
+1474,"Potash, Soda, and Borate Minerals",1400,1499,Mining and quarrying nonmetallic minerals,28,Mines Non-Metallic and Industrial Metal Mining
+1475,Phosphate Rock,1400,1499,Mining and quarrying nonmetallic minerals,28,Mines Non-Metallic and Industrial Metal Mining
+1479,"Chemical and Fertilizer Mineral Mining, Not Elsewhere Classified",1400,1499,Mining and quarrying nonmetallic minerals,28,Mines Non-Metallic and Industrial Metal Mining
+1481,"Nonmetallic Minerals Services, Except Fuels",1400,1499,Mining and quarrying nonmetallic minerals,28,Mines Non-Metallic and Industrial Metal Mining
+1499,"Miscellaneous Nonmetallic Minerals, Except Fuels",1400,1499,Mining and quarrying nonmetallic minerals,28,Mines Non-Metallic and Industrial Metal Mining
+1220,Office of Energy & Transportation,1200,1299,Bituminous coal and lignite mining,29,Coal Coal
+1221,Bituminous Coal and Lignite Surface Mining,1200,1299,Bituminous coal and lignite mining,29,Coal Coal
+1221,Office of Energy & Transportation,1200,1299,Bituminous coal and lignite mining,29,Coal Coal
+1222,Bituminous Coal Underground Mining,1200,1299,Bituminous coal and lignite mining,29,Coal Coal
+1231,Anthracite Mining,1200,1299,Bituminous coal and lignite mining,29,Coal Coal
+1241,Coal Mining Services,1200,1299,Bituminous coal and lignite mining,29,Coal Coal
+1311,Crude Petroleum and Natural Gas,1310,1319,Crude petroleum & natural gas,30,Oil Petroleum and Natural Gas
+1311,Office of Energy & Transportation,1310,1319,Crude petroleum & natural gas,30,Oil Petroleum and Natural Gas
+1321,Natural Gas Liquids,1320,1329,Natural gas liquids,30,Oil Petroleum and Natural Gas
+1381,Drilling Oil and Gas Wells,1381,1381,Drilling oil & gas wells,30,Oil Petroleum and Natural Gas
+1381,Office of Energy & Transportation,1381,1381,Drilling oil & gas wells,30,Oil Petroleum and Natural Gas
+1382,Oil and Gas Field Exploration Services,1382,1382,Oil & gas field exploration services,30,Oil Petroleum and Natural Gas
+1382,Office of Energy & Transportation,1382,1382,Oil & gas field exploration services,30,Oil Petroleum and Natural Gas
+1389,"Oil and Gas Field Services, Not Elsewhere Classified",1389,1389,Misc oil & gas field services,30,Oil Petroleum and Natural Gas
+1389,Office of Energy & Transportation,1389,1389,Misc oil & gas field services,30,Oil Petroleum and Natural Gas
+2911,Petroleum Refining,2900,2912,Petroleum refining,30,Oil Petroleum and Natural Gas
+2911,Office of Energy & Transportation,2900,2912,Petroleum refining,30,Oil Petroleum and Natural Gas
+2990,Office of Energy & Transportation,2990,2999,Misc products of petroleum & coal,30,Oil Petroleum and Natural Gas
+2992,Lubricating Oils and Greases,2990,2999,Misc products of petroleum & coal,30,Oil Petroleum and Natural Gas
+2999,"Products of Petroleum and Coal, Not Elsewhere Classified",2990,2999,Misc products of petroleum & coal,30,Oil Petroleum and Natural Gas
+4900,Office of Energy & Transportation,4900,4900,"Electric, gas & sanitary services",31,Util Utilities
+4911,Electric Services,4910,4911,Electric services,31,Util Utilities
+4911,Office of Energy & Transportation,4910,4911,Electric services,31,Util Utilities
+4922,Natural Gas Transmission,4920,4922,Natural gas transmission,31,Util Utilities
+4922,Office of Energy & Transportation,4920,4922,Natural gas transmission,31,Util Utilities
+4923,Natural Gas Transmission and Distribution,4923,4923,Natural gas transmission & distribution,31,Util Utilities
+4923,Office of Energy & Transportation,4923,4923,Natural gas transmission & distribution,31,Util Utilities
+4924,Natural Gas Distribution,4924,4925,Natural gas distribution,31,Util Utilities
+4924,Office of Energy & Transportation,4924,4925,Natural gas distribution,31,Util Utilities
+4925,"Mixed, Manufactured, or Liquefied Petroleum Gas Production and/or",4924,4925,Natural gas distribution,31,Util Utilities
+4931,Electric and Other Services Combined,4930,4931,Electric and other services combined,31,Util Utilities
+4931,Office of Energy & Transportation,4930,4931,Electric and other services combined,31,Util Utilities
+4932,Gas and Other Services Combined,4932,4932,Gas and other services combined,31,Util Utilities
+4932,Office of Energy & Transportation,4932,4932,Gas and other services combined,31,Util Utilities
+4939,"Combination Utilities, Not Elsewhere Classified",4939,4939,Misc combination utilities,31,Util Utilities
+4941,Water Supply,4940,4942,Water supply,31,Util Utilities
+4941,Office of Energy & Transportation,4940,4942,Water supply,31,Util Utilities
+4812,Radiotelephone Communications,4810,4813,Telephone communications,32,Telcm Communication
+4812,Office of Technology,4810,4813,Telephone communications,32,Telcm Communication
+4813,"Telephone Communications, Except Radiotelephone",4810,4813,Telephone communications,32,Telcm Communication
+4813,Office of Technology,4810,4813,Telephone communications,32,Telcm Communication
+4822,Telegraph and Other Message Communications,4820,4822,Telegraph and other message communication,32,Telcm Communication
+4822,Office of Technology,4820,4822,Telegraph and other message communication,32,Telcm Communication
+4832,Radio Broadcasting Stations,4830,4839,Radio & TV broadcasters,32,Telcm Communication
+4832,Office of Technology,4830,4839,Radio & TV broadcasters,32,Telcm Communication
+4833,Television Broadcasting Stations,4830,4839,Radio & TV broadcasters,32,Telcm Communication
+4833,Office of Technology,4830,4839,Radio & TV broadcasters,32,Telcm Communication
+4841,Cable and Other Pay Television Services,4840,4841,Cable and other pay TV services,32,Telcm Communication
+4841,Office of Technology,4840,4841,Cable and other pay TV services,32,Telcm Communication
+4899,"Communications Services, Not Elsewhere Classified",4899,4899,Misc communication services,32,Telcm Communication
+4899,Office of Technology,4899,4899,Misc communication services,32,Telcm Communication
+7021,Rooming and Boarding Houses,7020,7021,Rooming and boarding houses,33,PerSv Personal Services
+7032,Sporting and Recreational Camps,7030,7033,Camps and recreational vehicle parks,33,PerSv Personal Services
+7033,Recreational Vehicle Parks and Campsites,7030,7033,Camps and recreational vehicle parks,33,PerSv Personal Services
+7200,Office of Trade & Services,7200,7200,Services - personal,33,PerSv Personal Services
+7211,"Power Laundries, Family and Commercial",7210,7212,"Services - laundry, cleaning & garment services",33,PerSv Personal Services
+7212,"Garment Pressing, and Agents for Laundries and Drycleaners",7210,7212,"Services - laundry, cleaning & garment services",33,PerSv Personal Services
+7215,Coin-Operated Laundries and Drycleaning,7215,7216,"Services - coin-operated cleaners, dry cleaners",33,PerSv Personal Services
+7216,"Drycleaning Plants, Except Rug Cleaning",7215,7216,"Services - coin-operated cleaners, dry cleaners",33,PerSv Personal Services
+7217,Carpet and Upholstery Cleaning,7217,7217,Services - carpet & upholstery cleaning,33,PerSv Personal Services
+7219,"Laundry and Garment Services, Not Elsewhere Classified",7219,7219,Services - Misc laundry & garment services,33,PerSv Personal Services
+7221,"Photographic Studios, Portrait",7220,7221,"Services - photographic studios, portrait",33,PerSv Personal Services
+7231,Beauty Shops,7230,7231,Services - beauty shops,33,PerSv Personal Services
+7241,Barber Shops,7240,7241,Services - barber shops,33,PerSv Personal Services
+7251,Shoe Repair Shops and Shoeshine Parlors,7250,7251,Services - shoe repair shops & shoeshine parlors,33,PerSv Personal Services
+7261,Funeral Service and Crematories,7260,7269,Services - funeral service & crematories,33,PerSv Personal Services
+7291,Tax Return Preparation Services,7291,7291,Services - tax return,33,PerSv Personal Services
+7299,"Miscellaneous Personal Services, Not Elsewhere Classified",7292,7299,Services - Misc,33,PerSv Personal Services
+7500,Office of Trade & Services,7500,7500,"Services - auto repair, services & parking",33,PerSv Personal Services
+7510,Office of Trade & Services,7510,7515,Services - truck & auto rental and leasing,33,PerSv Personal Services
+7513,"Truck Rental and Leasing, Without Drivers",7510,7515,Services - truck & auto rental and leasing,33,PerSv Personal Services
+7514,Passenger Car Rental,7510,7515,Services - truck & auto rental and leasing,33,PerSv Personal Services
+7515,Passenger Car Leasing,7510,7515,Services - truck & auto rental and leasing,33,PerSv Personal Services
+7521,Automobile Parking,7520,7529,Services - automobile parking,33,PerSv Personal Services
+7532,"Top, Body, and Upholstery Repair Shops and Paint Shops",7530,7539,Services - automotive repair shops,33,PerSv Personal Services
+7533,Automotive Exhaust System Repair Shops,7530,7539,Services - automotive repair shops,33,PerSv Personal Services
+7534,Tire Retreading and Repair Shops,7530,7539,Services - automotive repair shops,33,PerSv Personal Services
+7536,Automotive Glass Replacement Shops,7530,7539,Services - automotive repair shops,33,PerSv Personal Services
+7537,Automotive Transmission Repair Shops,7530,7539,Services - automotive repair shops,33,PerSv Personal Services
+7538,General Automotive Repair Shops,7530,7539,Services - automotive repair shops,33,PerSv Personal Services
+7539,"Automotive Repair Shops, Not Elsewhere Classified",7530,7539,Services - automotive repair shops,33,PerSv Personal Services
+7542,Carwashes,7540,7549,"Services - automotive services, except repair (car washes)",33,PerSv Personal Services
+7549,"Automotive Services, Except Repair and Carwashes",7540,7549,"Services - automotive services, except repair (car washes)",33,PerSv Personal Services
+7600,Office of Trade & Services,7600,7600,Services - Misc repair services,33,PerSv Personal Services
+7622,Radio and Television Repair Shops,7622,7622,Services - Radio and TV repair shops,33,PerSv Personal Services
+7623,Refrigeration and Air-Conditioning Service and Repair Shops,7623,7623,Services - Refrigeration and air conditioning service & repair shops,33,PerSv Personal Services
+7629,"Electrical and Electronic Repair Shops, Not Elsewhere Classified",7629,7629,Services - Electrical & electronic repair shops,33,PerSv Personal Services
+7631,"Watch, Clock, and Jewelry Repair",7630,7631,"Services - Watch, clock and jewelry repair",33,PerSv Personal Services
+7641,Reupholstery and Furniture Repair,7640,7641,Services - Reupholster & furniture repair,33,PerSv Personal Services
+7692,Welding Repair,7690,7699,Services - Misc repair shops & related services,33,PerSv Personal Services
+7694,Armature Rewinding Shops,7690,7699,Services - Misc repair shops & related services,33,PerSv Personal Services
+7699,"Repair Shops and Related Services, Not Elsewhere Classified",7690,7699,Services - Misc repair shops & related services,33,PerSv Personal Services
+8111,Legal Services,8100,8199,Services - legal,33,PerSv Personal Services
+8111,Office of Trade & Services,8100,8199,Services - legal,33,PerSv Personal Services
+8200,Office of Trade & Services,8200,8299,Services - educational,33,PerSv Personal Services
+8211,Elementary and Secondary Schools,8200,8299,Services - educational,33,PerSv Personal Services
+8221,"Colleges, Universities, and Professional Schools",8200,8299,Services - educational,33,PerSv Personal Services
+8222,Junior Colleges and Technical Institutes,8200,8299,Services - educational,33,PerSv Personal Services
+8231,Libraries,8200,8299,Services - educational,33,PerSv Personal Services
+8243,Data Processing Schools,8200,8299,Services - educational,33,PerSv Personal Services
+8244,Business and Secretarial Schools,8200,8299,Services - educational,33,PerSv Personal Services
+8249,"Vocational Schools, Not Elsewhere Classified",8200,8299,Services - educational,33,PerSv Personal Services
+8299,"Schools and Educational Services, Not Elsewhere Classified",8200,8299,Services - educational,33,PerSv Personal Services
+8300,Industrial Applications and Services,8300,8399,Services - social services,33,PerSv Personal Services
+8322,Individual and Family Social Services,8300,8399,Services - social services,33,PerSv Personal Services
+8331,Job Training and Vocational Rehabilitation Services,8300,8399,Services - social services,33,PerSv Personal Services
+8351,Child Day Care Services,8300,8399,Services - social services,33,PerSv Personal Services
+8351,Office of Trade & Services,8300,8399,Services - social services,33,PerSv Personal Services
+8361,Residential Care,8300,8399,Services - social services,33,PerSv Personal Services
+8399,"Social Services, Not Elsewhere Classified",8300,8399,Services - social services,33,PerSv Personal Services
+8412,Museums and Art Galleries,8400,8499,"Services - museums, art galleries, botanical and zoological gardens",33,PerSv Personal Services
+8422,Arboreta and Botanical or Zoological Gardens,8400,8499,"Services - museums, art galleries, botanical and zoological gardens",33,PerSv Personal Services
+8600,Office of Trade & Services,8600,8699,Services - membership organizations,33,PerSv Personal Services
+8611,Business Associations,8600,8699,Services - membership organizations,33,PerSv Personal Services
+8621,Professional Membership Organizations,8600,8699,Services - membership organizations,33,PerSv Personal Services
+8631,Labor Unions and Similar Labor Organizations,8600,8699,Services - membership organizations,33,PerSv Personal Services
+8641,"Civic, Social, and Fraternal Associations",8600,8699,Services - membership organizations,33,PerSv Personal Services
+8651,Political Organizations,8600,8699,Services - membership organizations,33,PerSv Personal Services
+8661,Religious Organizations,8600,8699,Services - membership organizations,33,PerSv Personal Services
+8661,"Religious organizations, churches, places of worship, religious instruction",8600,8699,Services - membership organizations,33,PerSv Personal Services
+8699,"Membership Organizations, Not Elsewhere Classified",8600,8699,Services - membership organizations,33,PerSv Personal Services
+8811,Private Households,8800,8899,Services - private households,33,PerSv Personal Services
+8880,Office of International Corp Fin,8800,8899,Services - private households,33,PerSv Personal Services
+8888,Office of International Corp Fin,8800,8899,Services - private households,33,PerSv Personal Services
+2750,Office of Manufacturing,2750,2759,Commercial printing,34,BusSv Business Services
+2752,"Commercial Printing, Lithographic",2750,2759,Commercial printing,34,BusSv Business Services
+2754,"Commercial Printing, Gravure",2750,2759,Commercial printing,34,BusSv Business Services
+2759,"Commercial Printing, Not Elsewhere Classified",2750,2759,Commercial printing,34,BusSv Business Services
+3993,Signs and Advertising Specialties,3993,3993,Signs & advertising specialties,34,BusSv Business Services
+4220,Office of Energy & Transportation,4220,4229,Public warehousing and storage,34,BusSv Business Services
+4221,Farm Product Warehousing and Storage,4220,4229,Public warehousing and storage,34,BusSv Business Services
+4222,Refrigerated Warehousing and Storage,4220,4229,Public warehousing and storage,34,BusSv Business Services
+4225,General Warehousing and Storage,4220,4229,Public warehousing and storage,34,BusSv Business Services
+4226,"Special Warehousing and Storage, Not Elsewhere Classified",4220,4229,Public warehousing and storage,34,BusSv Business Services
+7218,Industrial Launderers,7218,7218,Services - industrial launderers,34,BusSv Business Services
+7310,Office of Trade & Services,7310,7319,Services - advertising,34,BusSv Business Services
+7311,Advertising Agencies,7310,7319,Services - advertising,34,BusSv Business Services
+7311,Office of Trade & Services,7310,7319,Services - advertising,34,BusSv Business Services
+7312,Outdoor Advertising Services,7310,7319,Services - advertising,34,BusSv Business Services
+7313,"Radio, Television, and Publishers' Advertising Representatives",7310,7319,Services - advertising,34,BusSv Business Services
+7319,"Advertising, Not Elsewhere Classified",7310,7319,Services - advertising,34,BusSv Business Services
+7320,Office of Trade & Services,7320,7329,"Services - consumer credit reporting agencies, collection services",34,BusSv Business Services
+7322,Adjustment and Collection Services,7320,7329,"Services - consumer credit reporting agencies, collection services",34,BusSv Business Services
+7323,Credit Reporting Services,7320,7329,"Services - consumer credit reporting agencies, collection services",34,BusSv Business Services
+7330,Office of Trade & Services,7330,7339,"Services - mailing, reproduction, commercial art & photography",34,BusSv Business Services
+7331,Direct Mail Advertising Services,7330,7339,"Services - mailing, reproduction, commercial art & photography",34,BusSv Business Services
+7331,Office of Trade & Services,7330,7339,"Services - mailing, reproduction, commercial art & photography",34,BusSv Business Services
+7334,Photocopying and Duplicating Services,7330,7339,"Services - mailing, reproduction, commercial art & photography",34,BusSv Business Services
+7334,Services-Photocopying and Duplicating Services,7330,7339,"Services - mailing, reproduction, commercial art & photography",34,BusSv Business Services
+7335,Commercial Photography,7330,7339,"Services - mailing, reproduction, commercial art & photography",34,BusSv Business Services
+7336,Commercial Art and Graphic Design,7330,7339,"Services - mailing, reproduction, commercial art & photography",34,BusSv Business Services
+7338,Secretarial and Court Reporting Services,7330,7339,"Services - mailing, reproduction, commercial art & photography",34,BusSv Business Services
+7340,Office of Trade & Services,7340,7342,Services - services to dwellings & other buildings,34,BusSv Business Services
+7342,Disinfecting and Pest Control Services,7340,7342,Services - services to dwellings & other buildings,34,BusSv Business Services
+7349,"Building Cleaning and Maintenance Services, Not Elsewhere",7349,7349,Services - building cleaning & maintenance,34,BusSv Business Services
+7350,Office of Trade & Services,7350,7351,Services - Misc equipment rental and leasing,34,BusSv Business Services
+7352,Medical Equipment Rental and Leasing,7352,7352,Services - medical equipment rental and leasing,34,BusSv Business Services
+7353,Heavy Construction Equipment Rental and Leasing,7353,7353,Services - heavy construction equipment rental and leasing,34,BusSv Business Services
+7359,"Equipment Rental and Leasing, Not Elsewhere Classified",7359,7359,Services - equipment rental and leasing,34,BusSv Business Services
+7359,Office of Trade & Services,7359,7359,Services - equipment rental and leasing,34,BusSv Business Services
+7361,Employment Agencies,7360,7369,Services - personnel supply services,34,BusSv Business Services
+7361,Office of Trade & Services,7360,7369,Services - personnel supply services,34,BusSv Business Services
+7363,Help Supply Services,7360,7369,Services - personnel supply services,34,BusSv Business Services
+7363,Office of Trade & Services,7360,7369,Services - personnel supply services,34,BusSv Business Services
+7374,Computer Processing and Data Preparation and Processing Services,7374,7374,"Services - computer processing, data preparation and processing",34,BusSv Business Services
+7374,Office of Technology,7374,7374,"Services - computer processing, data preparation and processing",34,BusSv Business Services
+7376,Computer Facilities Management Services,7376,7376,Services - computer facilities management service,34,BusSv Business Services
+7377,Computer Rental and Leasing,7377,7377,Services - computer rental and leasing,34,BusSv Business Services
+7377,Office of Trade & Services,7377,7377,Services - computer rental and leasing,34,BusSv Business Services
+7378,Computer Maintenance and Repair,7378,7378,Services - computer maintenance and repair,34,BusSv Business Services
+7379,"Computer Related Services, Not Elsewhere Classified",7379,7379,Services - computer related services,34,BusSv Business Services
+7380,Office of Trade & Services,7380,7380,Services - Misc business services,34,BusSv Business Services
+7381,"Detective, Guard, and Armored Car Services",7381,7382,Services - security,34,BusSv Business Services
+7381,Office of Trade & Services,7381,7382,Services - security,34,BusSv Business Services
+7382,Security Systems Services,7381,7382,Services - security,34,BusSv Business Services
+7383,News Syndicates,7383,7383,Services - news syndicates,34,BusSv Business Services
+7384,Photofinishing Laboratories,7384,7384,Services - photofinishing labs,34,BusSv Business Services
+7384,Office of Trade & Services,7384,7384,Services - photofinishing labs,34,BusSv Business Services
+7385,Office of Trade & Services,7385,7385,Services - telephone interconnect systems,34,BusSv Business Services
+7389,"Business Services, Not Elsewhere Classified",7389,7390,Services - Misc business services,34,BusSv Business Services
+7389,Office of Trade & Services,7389,7390,Services - Misc business services,34,BusSv Business Services
+7519,Utility Trailer and Recreational Vehicle Rental,7519,7519,Services - utility trailer & recreational vehicle rental,34,BusSv Business Services
+8700,Office of Trade & Services,8700,8700,"Services - engineering, accounting, research, management",34,BusSv Business Services
+8711,Engineering Services,8710,8713,"Services - engineering, accounting, surveying",34,BusSv Business Services
+8711,Office of Trade & Services,8710,8713,"Services - engineering, accounting, surveying",34,BusSv Business Services
+8712,Architectural Services,8710,8713,"Services - engineering, accounting, surveying",34,BusSv Business Services
+8713,Surveying Services,8710,8713,"Services - engineering, accounting, surveying",34,BusSv Business Services
+8721,"Accounting, Auditing, and Bookkeeping Services",8720,8721,"Services - accounting, auditing, bookkeeping",34,BusSv Business Services
+8731,Commercial Physical and Biological Research,8730,8734,"Services - research, development, testing labs",34,BusSv Business Services
+8731,Industrial Applications and Services,8730,8734,"Services - research, development, testing labs",34,BusSv Business Services
+8732,"Commercial Economic, Sociological, and Educational Research",8730,8734,"Services - research, development, testing labs",34,BusSv Business Services
+8733,Noncommercial Research Organizations,8730,8734,"Services - research, development, testing labs",34,BusSv Business Services
+8734,Testing Laboratories,8730,8734,"Services - research, development, testing labs",34,BusSv Business Services
+8734,Industrial Applications and Services,8730,8734,"Services - research, development, testing labs",34,BusSv Business Services
+8741,Management Services,8740,8748,"Services - management, public relations, consulting",34,BusSv Business Services
+8741,Office of Trade & Services,8740,8748,"Services - management, public relations, consulting",34,BusSv Business Services
+8742,Management Consulting Services,8740,8748,"Services - management, public relations, consulting",34,BusSv Business Services
+8742,Office of Trade & Services,8740,8748,"Services - management, public relations, consulting",34,BusSv Business Services
+8743,Public Relations Services,8740,8748,"Services - management, public relations, consulting",34,BusSv Business Services
+8744,Facilities Support Management Services,8740,8748,"Services - management, public relations, consulting",34,BusSv Business Services
+8744,Office of Trade & Services,8740,8748,"Services - management, public relations, consulting",34,BusSv Business Services
+8748,"Business Consulting Services, Not Elsewhere Classified",8740,8748,"Services - management, public relations, consulting",34,BusSv Business Services
+8900,Office of Trade & Services,8900,8910,Services - Misc,34,BusSv Business Services
+8999,"Services, Not Elsewhere Classified",8920,8999,Services - Misc,34,BusSv Business Services
+3570,Office of Technology,3570,3579,Computer & office equipment,35,Hardw Computers
+3571,Electronic Computers,3570,3579,Computer & office equipment,35,Hardw Computers
+3571,Office of Technology,3570,3579,Computer & office equipment,35,Hardw Computers
+3572,Computer Storage Devices,3570,3579,Computer & office equipment,35,Hardw Computers
+3572,Office of Technology,3570,3579,Computer & office equipment,35,Hardw Computers
+3575,Computer Terminals,3570,3579,Computer & office equipment,35,Hardw Computers
+3575,Office of Technology,3570,3579,Computer & office equipment,35,Hardw Computers
+3576,Office of Technology,3570,3579,Computer & office equipment,35,Hardw Computers
+3577,"Computer Peripheral Equipment, Not Elsewhere Classified",3570,3579,Computer & office equipment,35,Hardw Computers
+3577,Office of Technology,3570,3579,Computer & office equipment,35,Hardw Computers
+3578,"Calculating and Accounting Machines, Except Electronic Computers",3570,3579,Computer & office equipment,35,Hardw Computers
+3578,Office of Technology,3570,3579,Computer & office equipment,35,Hardw Computers
+3579,"Office Machines, Not Elsewhere Classified",3570,3579,Computer & office equipment,35,Hardw Computers
+3579,Office of Technology,3570,3579,Computer & office equipment,35,Hardw Computers
+3695,Magnetic And Optical Recording Media,3695,3695,Magnetic and optical recording media,35,Hardw Computers
+3695,Office of Manufacturing,3695,3695,Magnetic and optical recording media,35,Hardw Computers
+7370,Office of Technology,7370,7372,Services - computer programming and data processing,36,Softw Computer Software
+7371,Computer Programming Services,7370,7372,Services - computer programming and data processing,36,Softw Computer Software
+7371,Office of Technology,7370,7372,Services - computer programming and data processing,36,Softw Computer Software
+7372,Prepackaged Software,7370,7372,Services - computer programming and data processing,36,Softw Computer Software
+7372,Office of Technology,7370,7372,Services - computer programming and data processing,36,Softw Computer Software
+7373,Computer Integrated Systems Design,7373,7373,Computer integrated systems design,36,Softw Computer Software
+7373,Office of Technology,7373,7373,Computer integrated systems design,36,Softw Computer Software
+7375,Information Retrieval Services,7375,7375,Services - information retrieval services,36,Softw Computer Software
+3661,Telephone and Telegraph Apparatus,3661,3661,Telephone and telegraph apparatus,37,Chips Electronic Equipment
+3661,Office of Manufacturing,3661,3661,Telephone and telegraph apparatus,37,Chips Electronic Equipment
+3663,Radio and Television Broadcasting and Communications Equipment,3663,3663,Radio & TV broadcasting & communications equipment,37,Chips Electronic Equipment
+3663,Office of Manufacturing,3663,3663,Radio & TV broadcasting & communications equipment,37,Chips Electronic Equipment
+3669,"Communications Equipment, Not Elsewhere Classified",3669,3669,Communication equipment,37,Chips Electronic Equipment
+3669,Office of Manufacturing,3669,3669,Communication equipment,37,Chips Electronic Equipment
+3670,Office of Manufacturing,3670,3679,Electronic components & accessories,37,Chips Electronic Equipment
+3671,Electron Tubes,3670,3679,Electronic components & accessories,37,Chips Electronic Equipment
+3672,Printed Circuit Boards,3670,3679,Electronic components & accessories,37,Chips Electronic Equipment
+3672,Office of Manufacturing,3670,3679,Electronic components & accessories,37,Chips Electronic Equipment
+3674,Semiconductors and Related Devices,3670,3679,Electronic components & accessories,37,Chips Electronic Equipment
+3674,Office of Manufacturing,3670,3679,Electronic components & accessories,37,Chips Electronic Equipment
+3675,Electronic Capacitors,3670,3679,Electronic components & accessories,37,Chips Electronic Equipment
+3676,Electronic Resistors,3670,3679,Electronic components & accessories,37,Chips Electronic Equipment
+3677,"Electronic Coils, Transformers, and Other Inductors",3670,3679,Electronic components & accessories,37,Chips Electronic Equipment
+3677,Office of Manufacturing,3670,3679,Electronic components & accessories,37,Chips Electronic Equipment
+3678,Electronic Connectors,3670,3679,Electronic components & accessories,37,Chips Electronic Equipment
+3678,Office of Manufacturing,3670,3679,Electronic components & accessories,37,Chips Electronic Equipment
+3679,"Electronic Components, Not Elsewhere Classified",3670,3679,Electronic components & accessories,37,Chips Electronic Equipment
+3679,Office of Manufacturing,3670,3679,Electronic components & accessories,37,Chips Electronic Equipment
+3812,"Search, Detection, Navigation, Guidance, Aeronautical, and Nautical Systems and Instruments",3812,3812,"Search, detection, navigation, guidance, aeronautical & nautical systems & instruments",37,Chips Electronic Equipment
+3812,Office of Manufacturing,3812,3812,"Search, detection, navigation, guidance, aeronautical & nautical systems & instruments",37,Chips Electronic Equipment
+3821,Laboratory Apparatus and Furniture,3821,3821,Laboratory apparatus and furniture,38,LabEq Measuring and Control Equipment
+3821,Industrial Applications and Services,3821,3821,Laboratory apparatus and furniture,38,LabEq Measuring and Control Equipment
+3822,Automatic Controls for Regulating Residential and Commercial Environments and Appliances,3822,3822,Automatic controls for regulating residential & commercial environments & appliances,38,LabEq Measuring and Control Equipment
+3822,Industrial Applications and Services,3822,3822,Automatic controls for regulating residential & commercial environments & appliances,38,LabEq Measuring and Control Equipment
+3823,"Industrial Instruments for Measurement, Display, and Control of Process Variables; and Related Products",3823,3823,Industrial measurement instruments & related products,38,LabEq Measuring and Control Equipment
+3823,Industrial Applications and Services,3823,3823,Industrial measurement instruments & related products,38,LabEq Measuring and Control Equipment
+3824,Totalizing Fluid Meters and Counting Devices,3824,3824,Totalizing fluid meters & counting devices,38,LabEq Measuring and Control Equipment
+3824,Industrial Applications and Services,3824,3824,Totalizing fluid meters & counting devices,38,LabEq Measuring and Control Equipment
+3825,Instruments for Measuring and Testing of Electricity and Electrical Signals,3825,3825,Instruments for measuring & testing of electricity & electrical instruments,38,LabEq Measuring and Control Equipment
+3825,Industrial Applications and Services,3825,3825,Instruments for measuring & testing of electricity & electrical instruments,38,LabEq Measuring and Control Equipment
+3826,Laboratory Analytical Instruments,3826,3826,Lab analytical instruments,38,LabEq Measuring and Control Equipment
+3826,Industrial Applications and Services,3826,3826,Lab analytical instruments,38,LabEq Measuring and Control Equipment
+3827,Optical Instruments and Lenses,3827,3827,Optical instruments and lenses,38,LabEq Measuring and Control Equipment
+3827,Industrial Applications and Services,3827,3827,Optical instruments and lenses,38,LabEq Measuring and Control Equipment
+3829,"Measuring and Controlling Devices, Not Elsewhere Classified",3829,3829,Misc measuring and controlling devices,38,LabEq Measuring and Control Equipment
+3829,Industrial Applications and Services,3829,3829,Misc measuring and controlling devices,38,LabEq Measuring and Control Equipment
+2520,Office of Manufacturing,2520,2549,Office furniture and fixtures,39,Paper Business Supplies
+2521,Wood Office Furniture,2520,2549,Office furniture and fixtures,39,Paper Business Supplies
+2522,"Office Furniture, Except Wood",2520,2549,Office furniture and fixtures,39,Paper Business Supplies
+2522,Office of Manufacturing,2520,2549,Office furniture and fixtures,39,Paper Business Supplies
+2531,Public Building and Related Furniture,2520,2549,Office furniture and fixtures,39,Paper Business Supplies
+2531,Office of Manufacturing,2520,2549,Office furniture and fixtures,39,Paper Business Supplies
+2540,Office of Manufacturing,2520,2549,Office furniture and fixtures,39,Paper Business Supplies
+2541,"Wood Office and Store Fixtures, Partitions, Shelving, and Lockers",2520,2549,Office furniture and fixtures,39,Paper Business Supplies
+2542,"Office and Store Fixtures, Partitions, Shelving, and Lockers, Except Wood",2520,2549,Office furniture and fixtures,39,Paper Business Supplies
+2600,Office of Manufacturing,2600,2639,Paper and allied products,39,Paper Business Supplies
+2611,Pulp Mills,2600,2639,Paper and allied products,39,Paper Business Supplies
+2611,Office of Manufacturing,2600,2639,Paper and allied products,39,Paper Business Supplies
+2621,Paper Mills,2600,2639,Paper and allied products,39,Paper Business Supplies
+2621,Office of Manufacturing,2600,2639,Paper and allied products,39,Paper Business Supplies
+2631,Paperboard Mills,2600,2639,Paper and allied products,39,Paper Business Supplies
+2631,Office of Manufacturing,2600,2639,Paper and allied products,39,Paper Business Supplies
+2670,Office of Manufacturing,2670,2699,Paper and allied products,39,Paper Business Supplies
+2671,"Packaging Paper and Plastics Film, Coated and Laminated",2670,2699,Paper and allied products,39,Paper Business Supplies
+2672,"Coated and Laminated Paper, Not Elsewhere Classified",2670,2699,Paper and allied products,39,Paper Business Supplies
+2673,"Plastics, Foil, and Coated Paper Bags",2670,2699,Paper and allied products,39,Paper Business Supplies
+2673,Office of Manufacturing,2670,2699,Paper and allied products,39,Paper Business Supplies
+2674,Uncoated Paper and Multiwall Bags,2670,2699,Paper and allied products,39,Paper Business Supplies
+2675,Die-Cut Paper and Paperboard and Cardboard,2670,2699,Paper and allied products,39,Paper Business Supplies
+2676,Sanitary Paper Products,2670,2699,Paper and allied products,39,Paper Business Supplies
+2677,Envelopes,2670,2699,Paper and allied products,39,Paper Business Supplies
+2678,"Stationery, Tablets, and Related Products",2670,2699,Paper and allied products,39,Paper Business Supplies
+2679,"Converted Paper and Paperboard Products, Not Elsewhere Classified",2670,2699,Paper and allied products,39,Paper Business Supplies
+2761,Manifold Business Forms,2760,2761,Manifold business forms,39,Paper Business Supplies
+2761,Office of Manufacturing,2760,2761,Manifold business forms,39,Paper Business Supplies
+3950,Office of Manufacturing,3950,3955,"Pens, pencils & other artists’ supplies",39,Paper Business Supplies
+3951,"Pens, Mechanical Pencils, and Parts",3950,3955,"Pens, pencils & other artists’ supplies",39,Paper Business Supplies
+3952,"Lead Pencils, Crayons, and Artists' Materials",3950,3955,"Pens, pencils & other artists’ supplies",39,Paper Business Supplies
+3953,Marking Devices,3950,3955,"Pens, pencils & other artists’ supplies",39,Paper Business Supplies
+3955,Carbon Paper and Inked Ribbons,3950,3955,"Pens, pencils & other artists’ supplies",39,Paper Business Supplies
+2441,Nailed and Lock Corner Wood Boxes and Shook,2440,2449,Wood containers,40,Boxes Shipping Containers
+2448,Wood Pallets and Skids,2440,2449,Wood containers,40,Boxes Shipping Containers
+2449,"Wood Containers, Not Elsewhere Classified",2440,2449,Wood containers,40,Boxes Shipping Containers
+2650,Office of Manufacturing,2640,2659,"Paperboard containers, boxes, drums, tubs",40,Boxes Shipping Containers
+2652,Setup Paperboard Boxes,2640,2659,"Paperboard containers, boxes, drums, tubs",40,Boxes Shipping Containers
+2653,Corrugated and Solid Fiber Boxes,2640,2659,"Paperboard containers, boxes, drums, tubs",40,Boxes Shipping Containers
+2655,"Fiber Cans, Tubes, Drums, and Similar Products",2640,2659,"Paperboard containers, boxes, drums, tubs",40,Boxes Shipping Containers
+2656,"Sanitary Food Containers, Except Folding",2640,2659,"Paperboard containers, boxes, drums, tubs",40,Boxes Shipping Containers
+2657,"Folding Paperboard Boxes, Including Sanitary",2640,2659,"Paperboard containers, boxes, drums, tubs",40,Boxes Shipping Containers
+3220,Office of Manufacturing,3220,3221,Glass containers,40,Boxes Shipping Containers
+3221,Glass Containers,3220,3221,Glass containers,40,Boxes Shipping Containers
+3221,Office of Manufacturing,3220,3221,Glass containers,40,Boxes Shipping Containers
+3411,Metal Cans,3410,3412,Metal cans and shipping containers,40,Boxes Shipping Containers
+3411,Office of Manufacturing,3410,3412,Metal cans and shipping containers,40,Boxes Shipping Containers
+3412,"Metal Shipping Barrels, Drums, Kegs, and Pails",3410,3412,Metal cans and shipping containers,40,Boxes Shipping Containers
+3412,Office of Manufacturing,3410,3412,Metal cans and shipping containers,40,Boxes Shipping Containers
+4011,"Railroads, Line-Haul Operating",4000,4013,"Railroads, line-haul operating",41,Trans Transportation
+4011,Office of Energy & Transportation,4000,4013,"Railroads, line-haul operating",41,Trans Transportation
+4013,Railroad Switching and Terminal Establishments,4000,4013,"Railroads, line-haul operating",41,Trans Transportation
+4013,Office of Energy & Transportation,4000,4013,"Railroads, line-haul operating",41,Trans Transportation
+4100,Office of Energy & Transportation,4100,4100,Local & suburban transit & interurban highway passenger transportation,41,Trans Transportation
+4111,Local and Suburban Transit,4110,4119,Local & suburban passenger transportation,41,Trans Transportation
+4119,"Local Passenger Transportation, Not Elsewhere Classified",4110,4119,Local & suburban passenger transportation,41,Trans Transportation
+4121,Taxicabs,4120,4121,Taxicabs,41,Trans Transportation
+4131,Intercity and Rural Bus Transportation,4130,4131,Intercity & rural bus transportation (Greyhound),41,Trans Transportation
+4141,Local Bus Charter Service,4140,4142,Bus charter service,41,Trans Transportation
+4142,"Bus Charter Service, Except Local",4140,4142,Bus charter service,41,Trans Transportation
+4151,School Buses,4150,4151,School buses,41,Trans Transportation
+4173,Terminal and Service Facilities for Motor Vehicle Passenger Transportation,4170,4173,Motor vehicle terminals & service facilities,41,Trans Transportation
+4210,Office of Energy & Transportation,4210,4219,"Trucking & courier services, except air",41,Trans Transportation
+4212,Local Trucking Without Storage,4210,4219,"Trucking & courier services, except air",41,Trans Transportation
+4213,"Trucking, Except Local",4210,4219,"Trucking & courier services, except air",41,Trans Transportation
+4213,Office of Energy & Transportation,4210,4219,"Trucking & courier services, except air",41,Trans Transportation
+4214,Local Trucking With Storage,4210,4219,"Trucking & courier services, except air",41,Trans Transportation
+4215,"Courier Services, Except by Air",4210,4219,"Trucking & courier services, except air",41,Trans Transportation
+4231,Terminal and Joint Terminal Maintenance Facilities for Motor Freight Transportation,4230,4231,Terminal & joint terminal maintenance,41,Trans Transportation
+4231,Office of Energy & Transportation,4230,4231,Terminal & joint terminal maintenance,41,Trans Transportation
+4400,Office of Energy & Transportation,4400,4499,Water transport,41,Trans Transportation
+4412,Deep Sea Foreign Transportation of Freight,4400,4499,Water transport,41,Trans Transportation
+4412,Office of Energy & Transportation,4400,4499,Water transport,41,Trans Transportation
+4424,Deep Sea Domestic Transportation of Freight,4400,4499,Water transport,41,Trans Transportation
+4432,Freight Transportation on the Great Lakes-St. Lawrence Seaway,4400,4499,Water transport,41,Trans Transportation
+4449,"Water Transportation of Freight, Not Elsewhere Classified",4400,4499,Water transport,41,Trans Transportation
+4481,"Deep Sea Transportation of Passengers, Except by Ferry",4400,4499,Water transport,41,Trans Transportation
+4482,Ferries,4400,4499,Water transport,41,Trans Transportation
+4489,"Water Transportation of Passengers, Not Elsewhere Classified",4400,4499,Water transport,41,Trans Transportation
+4491,Marine Cargo Handling,4400,4499,Water transport,41,Trans Transportation
+4492,Towing and Tugboat Services,4400,4499,Water transport,41,Trans Transportation
+4493,Marinas,4400,4499,Water transport,41,Trans Transportation
+4499,"Water Transportation Services, Not Elsewhere Classified",4400,4499,Water transport,41,Trans Transportation
+4512,"Air Transportation, Scheduled",4500,4599,Air transportation,41,Trans Transportation
+4512,Office of Energy & Transportation,4500,4599,Air transportation,41,Trans Transportation
+4513,Air Courier Services,4500,4599,Air transportation,41,Trans Transportation
+4513,Office of Energy & Transportation,4500,4599,Air transportation,41,Trans Transportation
+4522,"Air Transportation, Nonscheduled",4500,4599,Air transportation,41,Trans Transportation
+4522,Office of Energy & Transportation,4500,4599,Air transportation,41,Trans Transportation
+4581,"Airports, Flying Fields, and Airport Terminal Services",4500,4599,Air transportation,41,Trans Transportation
+4581,Office of Energy & Transportation,4500,4599,Air transportation,41,Trans Transportation
+4610,Office of Energy & Transportation,4600,4699,"Pipelines, except natural gas",41,Trans Transportation
+4612,Crude Petroleum Pipelines,4600,4699,"Pipelines, except natural gas",41,Trans Transportation
+4613,Refined Petroleum Pipelines,4600,4699,"Pipelines, except natural gas",41,Trans Transportation
+4619,"Pipelines, Not Elsewhere Classified",4600,4699,"Pipelines, except natural gas",41,Trans Transportation
+4700,Office of Energy & Transportation,4700,4700,Transportation services,41,Trans Transportation
+4724,Travel Agencies,4720,4729,Arrangement of passenger transportation,41,Trans Transportation
+4725,Tour Operators,4720,4729,Arrangement of passenger transportation,41,Trans Transportation
+4729,"Arrangement of Passenger Transportation, Not Elsewhere Classified",4720,4729,Arrangement of passenger transportation,41,Trans Transportation
+4731,Arrangement of Transportation of Freight and Cargo,4730,4739,Arrangement of transportation of freight and cargo,41,Trans Transportation
+4731,Office of Energy & Transportation,4730,4739,Arrangement of transportation of freight and cargo,41,Trans Transportation
+4741,Rental of Railroad Cars,4740,4749,Rental of railroad cars,41,Trans Transportation
+4783,Packing and Crating,4783,4783,Packing and crating,41,Trans Transportation
+4785,Fixed Facilities and Inspection and Weighing Services for Motor Vehicle Transportation,4785,4785,Motor vehicle inspection,41,Trans Transportation
+4789,"Transportation Services, Not Elsewhere Classified",4789,4789,Misc transportation services,41,Trans Transportation
+5000,Office of Trade & Services,5000,5000,Wholesale - durable goods,42,Whlsl Wholesale
+5010,Office of Trade & Services,5010,5015,Wholesale - automotive vehicles & automotive parts & supplies,42,Whlsl Wholesale
+5012,Automobiles and Other Motor Vehicles,5010,5015,Wholesale - automotive vehicles & automotive parts & supplies,42,Whlsl Wholesale
+5013,Motor Vehicle Supplies and New Parts,5010,5015,Wholesale - automotive vehicles & automotive parts & supplies,42,Whlsl Wholesale
+5013,Office of Trade & Services,5010,5015,Wholesale - automotive vehicles & automotive parts & supplies,42,Whlsl Wholesale
+5014,Tires and Tubes,5010,5015,Wholesale - automotive vehicles & automotive parts & supplies,42,Whlsl Wholesale
+5015,"Motor Vehicle Parts, Used",5010,5015,Wholesale - automotive vehicles & automotive parts & supplies,42,Whlsl Wholesale
+5020,Office of Trade & Services,5020,5023,Wholesale - furniture and home furnishings,42,Whlsl Wholesale
+5021,Furniture,5020,5023,Wholesale - furniture and home furnishings,42,Whlsl Wholesale
+5023,Home furnishings,5020,5023,Wholesale - furniture and home furnishings,42,Whlsl Wholesale
+5030,Office of Trade & Services,5030,5039,Wholesale - lumber and construction materials,42,Whlsl Wholesale
+5031,"Lumber, Plywood, Millwork, and Wood Panels",5030,5039,Wholesale - lumber and construction materials,42,Whlsl Wholesale
+5031,Office of Trade & Services,5030,5039,Wholesale - lumber and construction materials,42,Whlsl Wholesale
+5032,"Brick, Stone, and Related Construction Materials",5030,5039,Wholesale - lumber and construction materials,42,Whlsl Wholesale
+5033,"Roofing, Siding, and Insulation Materials",5030,5039,Wholesale - lumber and construction materials,42,Whlsl Wholesale
+5039,"Construction Materials, Not Elsewhere Classified",5030,5039,Wholesale - lumber and construction materials,42,Whlsl Wholesale
+5040,Office of Trade & Services,5040,5042,Wholesale - professional and commercial equipment and supplies,42,Whlsl Wholesale
+5043,Photographic Equipment and Supplies,5043,5043,Wholesale - photographic equipment & supplies,42,Whlsl Wholesale
+5044,Office Equipment,5044,5044,Wholesale - office equipment,42,Whlsl Wholesale
+5045,Computers and Computer Peripheral Equipment and Software,5045,5045,Wholesale - computers & peripheral equipment & software,42,Whlsl Wholesale
+5045,Office of Trade & Services,5045,5045,Wholesale - computers & peripheral equipment & software,42,Whlsl Wholesale
+5046,"Commercial Equipment, Not Elsewhere Classified",5046,5046,Wholesale - commercial equipment,42,Whlsl Wholesale
+5047,"Medical, Dental, and Hospital Equipment and Supplies",5047,5047,"Wholesale - medical, dental & hospital equipment",42,Whlsl Wholesale
+5047,Office of Trade & Services,5047,5047,"Wholesale - medical, dental & hospital equipment",42,Whlsl Wholesale
+5048,Ophthalmic Goods,5048,5048,Wholesale - ophthalmic goods,42,Whlsl Wholesale
+5049,"Professional Equipment and Supplies, Not Elsewhere Classified",5049,5049,Wholesale - professional equipment and supplies,42,Whlsl Wholesale
+5050,Office of Trade & Services,5050,5059,"Wholesale - metals and minerals, except petroleum",42,Whlsl Wholesale
+5051,Metals Service Centers and Offices,5050,5059,"Wholesale - metals and minerals, except petroleum",42,Whlsl Wholesale
+5051,Office of Trade & Services,5050,5059,"Wholesale - metals and minerals, except petroleum",42,Whlsl Wholesale
+5052,Coal and Other Minerals and Ores,5050,5059,"Wholesale - metals and minerals, except petroleum",42,Whlsl Wholesale
+5063,"Electrical Apparatus and Equipment Wiring Supplies, and Construction Materials",5063,5063,Wholesale - electrical apparatus and equipment,42,Whlsl Wholesale
+5063,Office of Trade & Services,5063,5063,Wholesale - electrical apparatus and equipment,42,Whlsl Wholesale
+5064,"Electrical Appliances, Television and Radio Sets",5064,5064,"Wholesale - electrical appliance, TV and radio sets",42,Whlsl Wholesale
+5064,Office of Trade & Services,5064,5064,"Wholesale - electrical appliance, TV and radio sets",42,Whlsl Wholesale
+5065,"Electronic Parts and Equipment, Not Elsewhere Classified",5065,5065,Wholesale - electronic parts & equipment,42,Whlsl Wholesale
+5065,Office of Trade & Services,5065,5065,Wholesale - electronic parts & equipment,42,Whlsl Wholesale
+5070,Office of Trade & Services,5070,5078,"Wholesale - hardware, plumbing & heating equipment",42,Whlsl Wholesale
+5072,Hardware,5070,5078,"Wholesale - hardware, plumbing & heating equipment",42,Whlsl Wholesale
+5072,Office of Trade & Services,5070,5078,"Wholesale - hardware, plumbing & heating equipment",42,Whlsl Wholesale
+5074,Plumbing and Heating Equipment and Supplies (Hydronics),5070,5078,"Wholesale - hardware, plumbing & heating equipment",42,Whlsl Wholesale
+5075,Warm Air Heating and Air-Conditioning Equipment and Supplies,5070,5078,"Wholesale - hardware, plumbing & heating equipment",42,Whlsl Wholesale
+5078,Refrigeration Equipment and Supplies,5070,5078,"Wholesale - hardware, plumbing & heating equipment",42,Whlsl Wholesale
+5080,Office of Trade & Services,5080,5080,"Wholesale - machinery, equipment & supplies",42,Whlsl Wholesale
+5082,Construction and Mining (Except Petroleum) Machinery and Equipment,5082,5082,Wholesale - construction and mining machinery &equipment,42,Whlsl Wholesale
+5082,Office of Trade & Services,5082,5082,Wholesale - construction and mining machinery &equipment,42,Whlsl Wholesale
+5083,Farm and Garden Machinery and Equipment,5083,5083,Wholesale - farm and garden machinery & equipment,42,Whlsl Wholesale
+5084,Industrial Machinery and Equipment,5084,5084,Wholesale - industrial machinery & equipment,42,Whlsl Wholesale
+5084,Office of Trade & Services,5084,5084,Wholesale - industrial machinery & equipment,42,Whlsl Wholesale
+5085,Industrial Supplies,5085,5085,Wholesale - industrial supplies,42,Whlsl Wholesale
+5087,Service Establishment Equipment and Supplies,5086,5087,Wholesale - service establishment machinery & equipment (?),42,Whlsl Wholesale
+5088,"Transportation Equipment and Supplies, Except Motor Vehicles",5088,5088,"Wholesale - transportation equipment, except motor vehicles",42,Whlsl Wholesale
+5090,Office of Trade & Services,5090,5090,Wholesale - Misc durable goods,42,Whlsl Wholesale
+5091,Sporting and Recreational Goods and Supplies,5091,5092,Wholesale - sporting goods & toys,42,Whlsl Wholesale
+5092,Toys and Hobby Goods and Supplies,5091,5092,Wholesale - sporting goods & toys,42,Whlsl Wholesale
+5093,Scrap and Waste Materials,5093,5093,Wholesale - scrap and waste materials,42,Whlsl Wholesale
+5094,"Jewelry, Watches, Precious Stones, and Precious Metals",5094,5094,"Wholesale - jewelry, watches, precious stones & metals",42,Whlsl Wholesale
+5094,Office of Trade & Services,5094,5094,"Wholesale - jewelry, watches, precious stones & metals",42,Whlsl Wholesale
+5099,"Durable Goods, Not Elsewhere Classified",5099,5099,Wholesale - durable goods,42,Whlsl Wholesale
+5099,Office of Trade & Services,5099,5099,Wholesale - durable goods,42,Whlsl Wholesale
+5110,Office of Trade & Services,5110,5113,Wholesale - paper and paper products,42,Whlsl Wholesale
+5111,Printing and Writing Paper,5110,5113,Wholesale - paper and paper products,42,Whlsl Wholesale
+5112,Stationery and Office Supplies,5110,5113,Wholesale - paper and paper products,42,Whlsl Wholesale
+5113,Industrial and Personal Service Paper,5110,5113,Wholesale - paper and paper products,42,Whlsl Wholesale
+5122,"Drugs, Drug Proprietaries, and Druggists' Sundries",5120,5122,Wholesale - drugs & drug proprietaries,42,Whlsl Wholesale
+5122,Office of Trade & Services,5120,5122,Wholesale - drugs & drug proprietaries,42,Whlsl Wholesale
+5130,Office of Trade & Services,5130,5139,"Wholesale - apparel, piece goods & notions",42,Whlsl Wholesale
+5131,"Piece Goods, Notions, and Other Dry Good",5130,5139,"Wholesale - apparel, piece goods & notions",42,Whlsl Wholesale
+5136,Men's and Boy's Clothing and Furnishings,5130,5139,"Wholesale - apparel, piece goods & notions",42,Whlsl Wholesale
+5137,"Women's, Children's, and Infants' Clothing and Accessories",5130,5139,"Wholesale - apparel, piece goods & notions",42,Whlsl Wholesale
+5139,Footwear,5130,5139,"Wholesale - apparel, piece goods & notions",42,Whlsl Wholesale
+5140,Office of Trade & Services,5140,5149,Wholesale - groceries & related products,42,Whlsl Wholesale
+5141,"Groceries, General Line",5140,5149,Wholesale - groceries & related products,42,Whlsl Wholesale
+5141,Office of Trade & Services,5140,5149,Wholesale - groceries & related products,42,Whlsl Wholesale
+5142,Packaged Frozen Foods,5140,5149,Wholesale - groceries & related products,42,Whlsl Wholesale
+5143,"Dairy Products, Except Dried or Canned",5140,5149,Wholesale - groceries & related products,42,Whlsl Wholesale
+5144,Poultry and Poultry Products,5140,5149,Wholesale - groceries & related products,42,Whlsl Wholesale
+5145,Confectionery,5140,5149,Wholesale - groceries & related products,42,Whlsl Wholesale
+5146,Fish and Seafoods,5140,5149,Wholesale - groceries & related products,42,Whlsl Wholesale
+5147,Meats and Meat Products,5140,5149,Wholesale - groceries & related products,42,Whlsl Wholesale
+5148,Fresh Fruits and Vegetables,5140,5149,Wholesale - groceries & related products,42,Whlsl Wholesale
+5149,"Groceries and Related Products, Not Elsewhere Classified",5140,5149,Wholesale - groceries & related products,42,Whlsl Wholesale
+5150,Office of Trade & Services,5150,5159,Wholesale - farm product raw materials,42,Whlsl Wholesale
+5153,Grain and Field Beans,5150,5159,Wholesale - farm product raw materials,42,Whlsl Wholesale
+5154,Livestock,5150,5159,Wholesale - farm product raw materials,42,Whlsl Wholesale
+5159,"Farm-Product Raw Materials, Not Elsewhere Classified",5150,5159,Wholesale - farm product raw materials,42,Whlsl Wholesale
+5160,Office of Trade & Services,5160,5169,Wholesale - chemicals & allied products,42,Whlsl Wholesale
+5162,Plastics Materials and Basic Forms and Shapes,5160,5169,Wholesale - chemicals & allied products,42,Whlsl Wholesale
+5169,"Chemicals and Allied Products, Not Elsewhere Classified",5160,5169,Wholesale - chemicals & allied products,42,Whlsl Wholesale
+5171,Petroleum Bulk stations and Terminals,5170,5172,Wholesale - petroleum and petroleum products,42,Whlsl Wholesale
+5171,Office of Trade & Services,5170,5172,Wholesale - petroleum and petroleum products,42,Whlsl Wholesale
+5172,"Petroleum and Petroleum Products Wholesalers, Except Bulk Stations and Terminals",5170,5172,Wholesale - petroleum and petroleum products,42,Whlsl Wholesale
+5172,Office of Trade & Services,5170,5172,Wholesale - petroleum and petroleum products,42,Whlsl Wholesale
+5180,Office of Trade & Services,5180,5182,"Wholesale - beer, wine & distilled alcoholic beverages",42,Whlsl Wholesale
+5181,Beer and Ale,5180,5182,"Wholesale - beer, wine & distilled alcoholic beverages",42,Whlsl Wholesale
+5182,Wine and Distilled Alcoholic Beverages,5180,5182,"Wholesale - beer, wine & distilled alcoholic beverages",42,Whlsl Wholesale
+5190,Office of Trade & Services,5190,5199,Wholesale - Misc nondurable goods,42,Whlsl Wholesale
+5191,Farm Supplies,5190,5199,Wholesale - Misc nondurable goods,42,Whlsl Wholesale
+5192,"Books, Periodicals, and Newspapers",5190,5199,Wholesale - Misc nondurable goods,42,Whlsl Wholesale
+5193,"Flowers, Nursery Stock, and Florists' Supplies",5190,5199,Wholesale - Misc nondurable goods,42,Whlsl Wholesale
+5194,Tobacco and Tobacco Products,5190,5199,Wholesale - Misc nondurable goods,42,Whlsl Wholesale
+5198,"Paints, Varnishes, and Supplies",5190,5199,Wholesale - Misc nondurable goods,42,Whlsl Wholesale
+5199,"Nondurable Goods, Not Elsewhere Classified",5190,5199,Wholesale - Misc nondurable goods,42,Whlsl Wholesale
+5200,Office of Trade & Services,5200,5200,"Retail - retail-building materials, hardware, garden supply",43,Rtail Retail
+5211,Lumber and Other Building Materials Dealers,5210,5219,Retail - lumber & other building materials,43,Rtail Retail
+5211,Office of Trade & Services,5210,5219,Retail - lumber & other building materials,43,Rtail Retail
+5231,"Paint, Glass, and Wallpaper Stores",5230,5231,"Retail - paint, glass & wallpaper stores",43,Rtail Retail
+5251,Hardware Stores,5250,5251,Retail - hardware stores,43,Rtail Retail
+5261,"Retail Nurseries, Lawn and Garden Supply Stores",5260,5261,"Retail - nurseries, lawn & garden supply stores",43,Rtail Retail
+5271,Mobile Home Dealers,5270,5271,Retail - mobile home dealers,43,Rtail Retail
+5271,Office of Trade & Services,5270,5271,Retail - mobile home dealers,43,Rtail Retail
+5311,Department Stores,5310,5311,Retail - department stores,43,Rtail Retail
+5311,Office of Trade & Services,5310,5311,Retail - department stores,43,Rtail Retail
+5331,Variety Stores,5330,5331,Retail - variety stores,43,Rtail Retail
+5331,Office of Trade & Services,5330,5331,Retail - variety stores,43,Rtail Retail
+5399,Miscellaneous General Merchandise Stores,5390,5399,Retail - Misc general merchandise stores,43,Rtail Retail
+5399,Office of Trade & Services,5390,5399,Retail - Misc general merchandise stores,43,Rtail Retail
+5400,Office of Trade & Services,5400,5400,Retail - food stores,43,Rtail Retail
+5411,Grocery Stores,5410,5411,Retail - grocery stores,43,Rtail Retail
+5411,Office of Trade & Services,5410,5411,Retail - grocery stores,43,Rtail Retail
+5412,Office of Trade & Services,5412,5412,Retail - convenience stores,43,Rtail Retail
+5421,"Meat and Fish (Seafood) Markets, Including Freezer Provisioners",5420,5429,Retail - meat & fish markets,43,Rtail Retail
+5431,Fruit and Vegetable Markets,5430,5439,Retail - fruit and vegetable markets,43,Rtail Retail
+5441,"Candy, Nut, and Confectionery Stores",5440,5449,"Retail - candy, nut & confectionary stores",43,Rtail Retail
+5451,Dairy Products Stores,5450,5459,Retail - dairy products stores,43,Rtail Retail
+5461,Retail Bakeries,5460,5469,Retail - bakeries,43,Rtail Retail
+5499,Miscellaneous Food Stores,5490,5499,Retail - Misc food stores,43,Rtail Retail
+5500,Office of Trade & Services,5500,5500,Retail - automotive dealers and gas stations,43,Rtail Retail
+5511,Motor Vehicle Dealers (New and Used),5510,5529,Retail - automotive dealers,43,Rtail Retail
+5521,Motor Vehicle Dealers (Used Only),5510,5529,Retail - automotive dealers,43,Rtail Retail
+5531,Auto and Home Supply Stores,5530,5539,Retail - automotive and home supply stores,43,Rtail Retail
+5531,Office of Trade & Services,5530,5539,Retail - automotive and home supply stores,43,Rtail Retail
+5541,Gasoline Service Stations,5540,5549,Retail - gasoline service stations,43,Rtail Retail
+5551,Boat Dealers,5550,5559,Retail - boat dealers,43,Rtail Retail
+5561,Recreational Vehicle Dealers,5560,5569,Retail - recreation vehicle dealers,43,Rtail Retail
+5571,Motorcycle Dealers,5570,5579,Retail - motorcycle dealers,43,Rtail Retail
+5599,"Automotive Dealers, Not Elsewhere Classified",5590,5599,Retail - automotive dealers,43,Rtail Retail
+5600,Office of Trade & Services,5600,5699,Retail - apparel & accessory stores,43,Rtail Retail
+5611,Men's and Boys' Clothing and Accessory Stores,5600,5699,Retail - apparel & accessory stores,43,Rtail Retail
+5621,Women's Clothing Stores,5600,5699,Retail - apparel & accessory stores,43,Rtail Retail
+5621,Office of Trade & Services,5600,5699,Retail - apparel & accessory stores,43,Rtail Retail
+5632,Women's Accessory and Specialty Stores,5600,5699,Retail - apparel & accessory stores,43,Rtail Retail
+5641,Children's and Infants' Wear Stores,5600,5699,Retail - apparel & accessory stores,43,Rtail Retail
+5651,Family Clothing Stores,5600,5699,Retail - apparel & accessory stores,43,Rtail Retail
+5651,Office of Trade & Services,5600,5699,Retail - apparel & accessory stores,43,Rtail Retail
+5661,Shoe Stores,5600,5699,Retail - apparel & accessory stores,43,Rtail Retail
+5661,Office of Trade & Services,5600,5699,Retail - apparel & accessory stores,43,Rtail Retail
+5699,Miscellaneous Apparel and Accessory Stores,5600,5699,Retail - apparel & accessory stores,43,Rtail Retail
+5700,Office of Trade & Services,5700,5700,Retail - home furniture and equipment stores,43,Rtail Retail
+5712,Furniture Stores,5710,5719,Retail - home furnishings stores,43,Rtail Retail
+5712,Office of Trade & Services,5710,5719,Retail - home furnishings stores,43,Rtail Retail
+5713,Floor Covering Stores,5710,5719,Retail - home furnishings stores,43,Rtail Retail
+5714,"Drapery, Curtain, and Upholstery Stores",5710,5719,Retail - home furnishings stores,43,Rtail Retail
+5719,Miscellaneous home furnishings Stores,5710,5719,Retail - home furnishings stores,43,Rtail Retail
+5722,Household Appliance Stores,5720,5722,Retail - household appliance stores,43,Rtail Retail
+5731,"Radio, Television, and Consumer Electronics Stores",5730,5733,"Retail - radio, TV and consumer electronic stores",43,Rtail Retail
+5731,Office of Trade & Services,5730,5733,"Retail - radio, TV and consumer electronic stores",43,Rtail Retail
+5734,Computer and Computer Software Stores,5734,5734,Retail - computer and computer software stores,43,Rtail Retail
+5734,Office of Trade & Services,5734,5734,Retail - computer and computer software stores,43,Rtail Retail
+5735,Record and Prerecorded Tape Stores,5735,5735,Retail - record and tape stores,43,Rtail Retail
+5735,Office of Trade & Services,5735,5735,Retail - record and tape stores,43,Rtail Retail
+5736,Musical Instrument Stores,5736,5736,Retail - musical instrument stores,43,Rtail Retail
+5900,Office of Trade & Services,5900,5900,Retail - Misc,43,Rtail Retail
+5912,Drug Stores and Proprietary Stores,5910,5912,Retail - drug & proprietary stores,43,Rtail Retail
+5912,Office of Trade & Services,5910,5912,Retail - drug & proprietary stores,43,Rtail Retail
+5921,Liquor Stores,5920,5929,Retail - liquor stores,43,Rtail Retail
+5932,Used Merchandise Stores,5930,5932,Retail - used merchandise stores,43,Rtail Retail
+5940,Office of Trade & Services,5940,5940,Retail - Misc,43,Rtail Retail
+5941,Sporting Goods Stores and Bicycle Shops,5941,5941,Retail - sporting goods stores & bike shops,43,Rtail Retail
+5942,Book Stores,5942,5942,Retail - book stores,43,Rtail Retail
+5943,Stationery Stores,5943,5943,Retail - stationery stores,43,Rtail Retail
+5944,Jewelry Stores,5944,5944,Retail - jewelry stores,43,Rtail Retail
+5944,Office of Trade & Services,5944,5944,Retail - jewelry stores,43,Rtail Retail
+5945,"Hobby, Toy, and Game Shops",5945,5945,"Retail - hobby, toy and game shops",43,Rtail Retail
+5945,Office of Trade & Services,5945,5945,"Retail - hobby, toy and game shops",43,Rtail Retail
+5946,Camera and Photographic Supply Stores,5946,5946,Retail - camera and photographic supply stores,43,Rtail Retail
+5947,"Gift, Novelty, and Souvenir Shops",5947,5947,"Retail - gift, novelty & souvenir shops",43,Rtail Retail
+5948,Luggage and Leather Goods Stores,5948,5948,Retail - luggage & leather goods stores,43,Rtail Retail
+5949,"Sewing, Needlework, and Piece Goods Stores",5949,5949,Retail - sewing & needlework stores,43,Rtail Retail
+5960,Office of Trade & Services,5960,5969,"Retail - non-store retailers (catalogs, etc)",43,Rtail Retail
+5961,Catalog and Mail-Order Houses,5960,5969,"Retail - non-store retailers (catalogs, etc)",43,Rtail Retail
+5961,Office of Trade & Services,5960,5969,"Retail - non-store retailers (catalogs, etc)",43,Rtail Retail
+5962,Automatic Merchandising Machine Operators,5960,5969,"Retail - non-store retailers (catalogs, etc)",43,Rtail Retail
+5963,Direct Selling Establishments,5960,5969,"Retail - non-store retailers (catalogs, etc)",43,Rtail Retail
+5983,Fuel Oil Dealers,5980,5989,Retail - fuel dealers & ice stores (Penn Central Co),43,Rtail Retail
+5984,Liquefied Petroleum Gas (Bottled Gas) Dealers,5980,5989,Retail - fuel dealers & ice stores (Penn Central Co),43,Rtail Retail
+5989,"Fuel Dealers, Not Elsewhere Classified",5980,5989,Retail - fuel dealers & ice stores (Penn Central Co),43,Rtail Retail
+5990,Office of Trade & Services,5990,5990,Retail - Misc retail stores,43,Rtail Retail
+5992,Florists,5992,5992,Retail - florists,43,Rtail Retail
+5993,Tobacco Stores and Stands,5993,5993,Retail - tobacco stores and stands,43,Rtail Retail
+5994,News Dealers and Newsstands,5994,5994,Retail - newsdealers and news stands,43,Rtail Retail
+5995,Optical Goods Stores,5995,5995,Retail - optical goods stores,43,Rtail Retail
+5999,"Miscellaneous Retail Stores, Not Elsewhere Classified",5999,5999,Misc retail stores,43,Rtail Retail
+5810,Office of Trade & Services,5800,5819,Retail - eating places,44,"Meals Restaurants, Hotels, Motels"
+5812,Eating Places,5800,5819,Retail - eating places,44,"Meals Restaurants, Hotels, Motels"
+5812,Office of Trade & Services,5800,5819,Retail - eating places,44,"Meals Restaurants, Hotels, Motels"
+5813,Drinking Places (alcoholic Beverages),5800,5819,Retail - eating places,44,"Meals Restaurants, Hotels, Motels"
+7000,Office of Real Estate & Construction,7000,7000,Hotels & other lodging places,44,"Meals Restaurants, Hotels, Motels"
+7011,Hotels and Motels,7010,7019,Hotels & motels,44,"Meals Restaurants, Hotels, Motels"
+7011,Office of Real Estate & Construction,7010,7019,Hotels & motels,44,"Meals Restaurants, Hotels, Motels"
+7041,"Organization Hotels and Lodging Houses, on Membership Basis",7040,7049,Membership hotels and lodging houses,44,"Meals Restaurants, Hotels, Motels"
+7213,Linen Supply,7213,7213,Services - linen supply,44,"Meals Restaurants, Hotels, Motels"
+6011,Federal Reserve Banks,6010,6019,Federal reserve banks,45,Banks Banking
+6012,Pay Day Lenders,6010,6019,Federal reserve banks,45,Banks Banking
+6019,"Central Reserve Depository Institutions, Not Elsewhere Classified",6010,6019,Federal reserve banks,45,Banks Banking
+6021,National Commercial Banks,6021,6021,National commercial banks,45,Banks Banking
+6021,Office of Finance,6021,6021,National commercial banks,45,Banks Banking
+6022,State Commercial Banks,6022,6022,State commercial banks - Fed Res System,45,Banks Banking
+6022,Office of Finance,6022,6022,State commercial banks - Fed Res System,45,Banks Banking
+6029,"Commercial Banks, Not Elsewhere Classified",6028,6029,Misc commercial banks,45,Banks Banking
+6029,Office of Finance,6028,6029,Misc commercial banks,45,Banks Banking
+6035,"Savings Institutions, Federally Chartered",6030,6036,Savings institutions,45,Banks Banking
+6035,Office of Finance,6030,6036,Savings institutions,45,Banks Banking
+6036,"Savings Institutions, Not Federally Chartered",6030,6036,Savings institutions,45,Banks Banking
+6036,Office of Finance,6030,6036,Savings institutions,45,Banks Banking
+6061,"Credit Unions, Federally Chartered",6060,6062,Credit unions,45,Banks Banking
+6062,"Credit Unions, Not Federally Chartered",6060,6062,Credit unions,45,Banks Banking
+6081,Branches and Agencies of Foreign Banks,6080,6082,Foreign banks,45,Banks Banking
+6082,Foreign Trade and International Banking Institutions,6080,6082,Foreign banks,45,Banks Banking
+6091,"Non-deposit Trust Facilities,",6090,6099,Functions related to depository banking,45,Banks Banking
+6099,"Functions Related to Depository Banking, Not Elsewhere Classified",6090,6099,Functions related to depository banking,45,Banks Banking
+6099,Office of Finance,6090,6099,Functions related to depository banking,45,Banks Banking
+6111,Federal and Federally-Sponsored Credit Agencies,6110,6111,Federal credit agencies,45,Banks Banking
+6111,Office of Finance,6110,6111,Federal credit agencies,45,Banks Banking
+6141,Personal Credit Institutions,6140,6149,Personal credit institutions (Beneficial),45,Banks Banking
+6141,Office of Finance,6140,6149,Personal credit institutions (Beneficial),45,Banks Banking
+6153,"Short-Term Business Credit Institutions, Except Agricultural",6150,6159,Business credit institutions,45,Banks Banking
+6153,Office of Finance,6150,6159,Business credit institutions,45,Banks Banking
+6159,Miscellaneous business Credit Institutions,6150,6159,Business credit institutions,45,Banks Banking
+6159,Office of Finance,6150,6159,Business credit institutions,45,Banks Banking
+6162,Mortgage Bankers and Loan Correspondents,6160,6169,Mortgage bankers and brokers,45,Banks Banking
+6162,Office of Finance,6160,6169,Mortgage bankers and brokers,45,Banks Banking
+6163,Loan Brokers,6160,6169,Mortgage bankers and brokers,45,Banks Banking
+6163,Office of Finance,6160,6169,Mortgage bankers and brokers,45,Banks Banking
+6172,Office of Finance,6170,6179,Finance lessors,45,Banks Banking
+6199,Office of Finance,6190,6199,Financial services,45,Banks Banking
+6311,Life Insurance,6310,6319,Life insurance,46,Insur Insurance
+6311,Office of Finance,6310,6319,Life insurance,46,Insur Insurance
+6321,Accident and Health Insurance,6320,6329,Accident and health insurance,46,Insur Insurance
+6321,Office of Finance,6320,6329,Accident and health insurance,46,Insur Insurance
+6324,Hospital and Medical Service Plans,6320,6329,Accident and health insurance,46,Insur Insurance
+6324,Office of Finance,6320,6329,Accident and health insurance,46,Insur Insurance
+6331,"Fire, Marine, and Casualty Insurance",6330,6331,"Fire, marine & casualty insurance",46,Insur Insurance
+6331,Office of Finance,6330,6331,"Fire, marine & casualty insurance",46,Insur Insurance
+6351,Surety Insurance,6350,6351,Surety insurance,46,Insur Insurance
+6351,Office of Finance,6350,6351,Surety insurance,46,Insur Insurance
+6361,Title Insurance,6360,6361,Title insurance,46,Insur Insurance
+6361,Office of Finance,6360,6361,Title insurance,46,Insur Insurance
+6371,"Pension, Health, and Welfare Funds",6370,6379,"Pension, health & welfare funds",46,Insur Insurance
+6399,"Insurance Carriers, Not Elsewhere Classified",6390,6399,Misc insurance carriers,46,Insur Insurance
+6399,Office of Finance,6390,6399,Misc insurance carriers,46,Insur Insurance
+6411,"Insurance Agents, Brokers, and Service",6400,6411,"Insurance agents, brokers & service",46,Insur Insurance
+6411,Office of Finance,6400,6411,"Insurance agents, brokers & service",46,Insur Insurance
+6500,Office of Real Estate & Construction,6500,6500,Real estate,47,RlEst Real Estate
+6510,Office of Real Estate & Construction,6510,6510,Real estate operators and lessors,47,RlEst Real Estate
+6512,Operators of Nonresidential Buildings,6512,6512,Operators - non-resident buildings,47,RlEst Real Estate
+6512,Office of Real Estate & Construction,6512,6512,Operators - non-resident buildings,47,RlEst Real Estate
+6513,Operators of Apartment Buildings,6513,6513,Operators - apartment buildings,47,RlEst Real Estate
+6513,Office of Real Estate & Construction,6513,6513,Operators - apartment buildings,47,RlEst Real Estate
+6514,Operators of Dwellings Other Than Apartment Buildings,6514,6514,Operators - other than apartment,47,RlEst Real Estate
+6515,Operators of Residential Mobile Home Sites,6515,6515,Operators - residential mobile home,47,RlEst Real Estate
+6517,Lessors of Railroad Property,6517,6519,Lessors of railroad & real property,47,RlEst Real Estate
+6519,"Lessors of Real Property, Not Elsewhere Classified",6517,6519,Lessors of railroad & real property,47,RlEst Real Estate
+6519,Office of Real Estate & Construction,6517,6519,Lessors of railroad & real property,47,RlEst Real Estate
+6531,Real Estate Agents and Managers,6530,6531,Real estate agents and managers,47,RlEst Real Estate
+6531,Office of Real Estate & Construction,6530,6531,Real estate agents and managers,47,RlEst Real Estate
+6532,Office of Real Estate & Construction,6532,6532,Real estate dealers,47,RlEst Real Estate
+6541,Title Abstract Offices,6540,6541,Title abstract offices,47,RlEst Real Estate
+6552,"Land Subdividers and Developers, Except Cemeteries",6550,6553,Land subdividers & developers,47,RlEst Real Estate
+6552,Office of Real Estate & Construction,6550,6553,Land subdividers & developers,47,RlEst Real Estate
+6553,Cemetery Subdividers and Developers,6550,6553,Land subdividers & developers,47,RlEst Real Estate
+6200,Office of Finance,6200,6299,"Security and commodity brokers, dealers, exchanges & services",48,Fin Trading
+6211,"Security Brokers, Dealers, and Flotation Companies",6200,6299,"Security and commodity brokers, dealers, exchanges & services",48,Fin Trading
+6211,Office of Finance,6200,6299,"Security and commodity brokers, dealers, exchanges & services",48,Fin Trading
+6221,Commodity Contracts Brokers and Dealers,6200,6299,"Security and commodity brokers, dealers, exchanges & services",48,Fin Trading
+6221,Office of Finance,6200,6299,"Security and commodity brokers, dealers, exchanges & services",48,Fin Trading
+6231,Security and Commodity Exchanges,6200,6299,"Security and commodity brokers, dealers, exchanges & services",48,Fin Trading
+6282,Investment Advice,6200,6299,"Security and commodity brokers, dealers, exchanges & services",48,Fin Trading
+6282,Office of Finance,6200,6299,"Security and commodity brokers, dealers, exchanges & services",48,Fin Trading
+6289,"Services Allied With the Exchange of Securities or Commodities, Not Elsewhere Classified",6200,6299,"Security and commodity brokers, dealers, exchanges & services",48,Fin Trading
+6712,Offices of Bank Holding Companies,6710,6719,Holding offices,48,Fin Trading
+6719,"Offices of Holding Companies, Not Elsewhere Classified",6710,6719,Holding offices,48,Fin Trading
+6722,"Management Investment Offices, Open-End",6720,6722,"Management investment offices, open-end",48,Fin Trading
+6726,"Unit Investment Trusts, Face-Amount Certificate Offices, and Closed-End Management Investment Offices",6726,6726,"Unit investment trusts, closed-end",48,Fin Trading
+6732,"Educational, Religious, and Charitable Trusts",6730,6733,Trusts,48,Fin Trading
+6733,"Trusts, Except Educational, Religious, and Charitable",6730,6733,Trusts,48,Fin Trading
+6770,Office of Real Estate & Construction,6740,6779,Investment offices,48,Fin Trading
+6792,Oil Royalty Traders,6792,6792,Oil royalty traders,48,Fin Trading
+6792,Office of Real Estate & Construction,6792,6792,Oil royalty traders,48,Fin Trading
+6794,Patent Owners and Lessors,6794,6794,Patent owners & lessors,48,Fin Trading
+6794,Office of Real Estate & Construction,6794,6794,Patent owners & lessors,48,Fin Trading
+6795,Office of Real Estate & Construction,6795,6795,Mineral royalty traders,48,Fin Trading
+6798,Real Estate Investment Trusts,6798,6798,REIT,48,Fin Trading
+6798,Office of Real Estate & Construction,6798,6798,REIT,48,Fin Trading
+6799,"Investors, Not Elsewhere Classified",6799,6799,"Investors, NEC",48,Fin Trading
+6799,Office of Real Estate & Construction,6799,6799,"Investors, NEC",48,Fin Trading
+4950,Office of Energy & Transportation,4950,4959,Sanitary services,49,Other Almost Nothing
+4952,Sewerage Systems,4950,4959,Sanitary services,49,Other Almost Nothing
+4953,Refuse Systems,4950,4959,Sanitary services,49,Other Almost Nothing
+4953,Office of Energy & Transportation,4950,4959,Sanitary services,49,Other Almost Nothing
+4955,Office of Energy & Transportation,4950,4959,Sanitary services,49,Other Almost Nothing
+4959,"Sanitary Services, Not Elsewhere Classified",4950,4959,Sanitary services,49,Other Almost Nothing
+4961,Steam and Air-Conditioning Supply,4960,4961,Steam & air conditioning supplies,49,Other Almost Nothing
+4961,Office of Energy & Transportation,4960,4961,Steam & air conditioning supplies,49,Other Almost Nothing
+4971,Irrigation Systems,4970,4971,Irrigation systems,49,Other Almost Nothing
+4991,Office of Energy & Transportation,4990,4991,Cogeneration - SM power producer,49,Other Almost Nothing
