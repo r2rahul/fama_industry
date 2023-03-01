@@ -1,4 +1,4 @@
-Tidy Data of Fama 49 Industry Classification to SIC Industry Classification Mapping
+Tabular (tidy) data of Fama 49 Industry to SIC classification
 ================
 
 If you are looking for Fama 49 industry classification to SIC mapping in the tabular format then this file will be good to go [SIC-Fama Data](data/famatidy/fama_sic.csv). If further customization or other Fama Industry files needs to be used then code might serve as an example for the use-case. Especially the regular expression used in the code will be very useful in adapting the analysis to another Fama industry files. The code section contains further details. 
